@@ -39,6 +39,35 @@ h1 {
   font-size: clamp(1.2rem, 4vw, 1.6rem);
 }
 
+.theatre-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.4rem;
+  margin: 0 0 0.75rem;
+}
+
+.theatre-tab {
+  font: inherit;
+  font-size: 0.78rem;
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  border: 1px solid #2a2e37;
+  background: var(--card-bg);
+  color: var(--muted);
+  cursor: pointer;
+}
+
+.theatre-tab:hover {
+  color: var(--text);
+}
+
+.theatre-tab.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
 .refresh-note {
   margin: 0 0 0.15rem;
   font-size: 0.85rem;

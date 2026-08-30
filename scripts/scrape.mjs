@@ -1,12 +1,12 @@
-// Scrapes Cineplex's undocumented theatrical API for IMAX showtimes at
-// Scotiabank Theatre Toronto and writes data/showtimes.json.
+// Scrapes Cineplex's undocumented theatrical API for IMAX showtimes at each
+// theatre listed in data/theatres.json and writes one data/<slug>.json per
+// theatre.
 //
 // The API is unofficial (reverse-engineered from Cineplex's own JS bundle).
-// If it starts failing entirely, we skip writing the file so we never
-// clobber the last known-good data with empty/broken output.
+// If it starts failing entirely for a theatre, we skip writing that
+// theatre's file so we never clobber its last known-good data with
+// empty/broken output.
 
-const THEATRE_ID = 7402; // Scotiabank Theatre Toronto
-const THEATRE_NAME = "Scotiabank Theatre Toronto";
 const SUBSCRIPTION_KEY =
   process.env.CINEPLEX_SUBSCRIPTION_KEY || "dcdac5601d864addbc2675a2e96cb1f8";
 const API_BASE = "https://apis.cineplex.com/prod/cpx/theatrical/api/v1";
@@ -17,14 +17,14 @@ const API_BASE = "https://apis.cineplex.com/prod/cpx/theatrical/api/v1";
 // ahead and just keep whatever comes back non-empty.
 const DAYS_AHEAD = 365;
 const CONCURRENCY = 8;
-const OUTPUT_PATH = new URL("../data/showtimes.json", import.meta.url);
+const THEATRES_PATH = new URL("../data/theatres.json", import.meta.url);
 
 function formatDate(date) {
   return date.toISOString().slice(0, 10);
 }
 
-async function fetchShowtimesForDate(dateStr) {
-  const url = `${API_BASE}/showtimes?language=en&locationId=${THEATRE_ID}&date=${dateStr}`;
+async function fetchShowtimesForDate(theatreId, dateStr) {
+  const url = `${API_BASE}/showtimes?language=en&locationId=${theatreId}&date=${dateStr}`;
   const res = await fetch(url, {
     headers: { "Ocp-Apim-Subscription-Key": SUBSCRIPTION_KEY },
   });
@@ -131,7 +131,7 @@ async function fetchSeatAvailability(theatreId, showtimeId) {
 // once per auditorium and reused across sessions). Failures are per-session
 // and never abort the run — a session just keeps its time/format/ticketUrl
 // without seat data.
-async function attachSeatData(days) {
+async function attachSeatData(theatreId, days) {
   const auditoriums = {};
   const layoutPromises = new Map(); // areaCode -> Promise<raw layout>
 
@@ -146,7 +146,7 @@ async function attachSeatData(days) {
 
   async function getLayout(areaCode, vistaSessionId) {
     if (!layoutPromises.has(areaCode)) {
-      layoutPromises.set(areaCode, fetchSeatLayout(THEATRE_ID, vistaSessionId));
+      layoutPromises.set(areaCode, fetchSeatLayout(theatreId, vistaSessionId));
     }
     return layoutPromises.get(areaCode);
   }
@@ -155,7 +155,7 @@ async function attachSeatData(days) {
     try {
       const [layout, availability] = await Promise.all([
         getLayout(session.areaCode, session.vistaSessionId),
-        fetchSeatAvailability(THEATRE_ID, session.vistaSessionId),
+        fetchSeatAvailability(theatreId, session.vistaSessionId),
       ]);
       if (!auditoriums[session.areaCode]) {
         auditoriums[session.areaCode] = compactLayout(layout);
@@ -181,9 +181,9 @@ async function attachSeatData(days) {
   return auditoriums;
 }
 
-async function processDate(dateStr) {
+async function processDate(theatreId, dateStr) {
   try {
-    const payload = await fetchShowtimesForDate(dateStr);
+    const payload = await fetchShowtimesForDate(theatreId, dateStr);
     if (!payload) return { dateStr, ok: true, movies: [] };
     const theatreEntry = Array.isArray(payload) ? payload[0] : payload;
     const movies = extractImaxMovies(theatreEntry);
@@ -207,7 +207,9 @@ async function mapWithConcurrency(items, limit, fn) {
   return results;
 }
 
-async function main() {
+// Returns true if this theatre's file was written, false if it was skipped
+// (every date request failed, so we leave the existing file untouched).
+async function scrapeTheatre(theatre, { mkdir, writeFile }) {
   const today = new Date();
   const dateStrs = Array.from({ length: DAYS_AHEAD }, (_, i) => {
     const date = new Date(today);
@@ -215,36 +217,55 @@ async function main() {
     return formatDate(date);
   });
 
-  const results = await mapWithConcurrency(dateStrs, CONCURRENCY, processDate);
+  const results = await mapWithConcurrency(dateStrs, CONCURRENCY, (dateStr) =>
+    processDate(theatre.id, dateStr)
+  );
 
   const successCount = results.filter((r) => r.ok).length;
   if (successCount === 0) {
-    console.error("Every date request failed; leaving existing data untouched.");
-    process.exit(1);
+    console.error(
+      `Every date request failed for ${theatre.name}; leaving existing data untouched.`
+    );
+    return false;
   }
 
   const days = results
     .filter((r) => r.movies.length > 0)
     .map((r) => ({ date: r.dateStr, movies: r.movies }));
 
-  const auditoriums = await attachSeatData(days);
+  const auditoriums = await attachSeatData(theatre.id, days);
 
   const output = {
     updatedAt: new Date().toISOString(),
-    theatre: { id: THEATRE_ID, name: THEATRE_NAME },
+    theatre: { id: theatre.id, name: theatre.name },
     auditoriums,
     days,
   };
 
-  await import("node:fs/promises").then(({ mkdir, writeFile }) =>
-    mkdir(new URL("../data", import.meta.url), { recursive: true }).then(() =>
-      writeFile(OUTPUT_PATH, JSON.stringify(output, null, 2) + "\n")
-    )
-  );
+  const outputPath = new URL(`../${theatre.file}`, import.meta.url);
+  await mkdir(new URL("../data", import.meta.url), { recursive: true });
+  await writeFile(outputPath, JSON.stringify(output, null, 2) + "\n");
 
   console.log(
-    `Wrote ${days.length} day(s) with IMAX showtimes to data/showtimes.json`
+    `Wrote ${days.length} day(s) with IMAX showtimes to ${theatre.file}`
   );
+  return true;
+}
+
+async function main() {
+  const { readFile, mkdir, writeFile } = await import("node:fs/promises");
+  const theatres = JSON.parse(await readFile(THEATRES_PATH, "utf8"));
+
+  let anySucceeded = false;
+  for (const theatre of theatres) {
+    const wrote = await scrapeTheatre(theatre, { mkdir, writeFile });
+    anySucceeded = anySucceeded || wrote;
+  }
+
+  if (!anySucceeded) {
+    console.error("Every theatre failed entirely; nothing was written.");
+    process.exit(1);
+  }
 }
 
 main().catch((err) => {

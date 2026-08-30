@@ -1,0 +1,26 @@
+[
+  {
+    "id": 7402,
+    "slug": "scotiabank-toronto",
+    "name": "Scotiabank Theatre Toronto",
+    "file": "data/scotiabank-toronto.json"
+  },
+  {
+    "id": 7123,
+    "slug": "winston-churchill",
+    "name": "Cineplex Cinemas Winston Churchill & VIP",
+    "file": "data/winston-churchill.json"
+  },
+  {
+    "id": 7420,
+    "slug": "square-one",
+    "name": "Cineplex Cinemas Mississauga Square One",
+    "file": "data/square-one.json"
+  },
+  {
+    "id": 7408,
+    "slug": "vaughan",
+    "name": "Cineplex Cinemas Vaughan",
+    "file": "data/vaughan.json"
+  }
+]

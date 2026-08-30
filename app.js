@@ -1,5 +1,9 @@
 const calendarEl = document.getElementById("calendar");
 const updatedEl = document.getElementById("updated");
+const theatreNameEl = document.getElementById("theatre-name");
+const theatreTabsEl = document.getElementById("theatre-tabs");
+
+const DEFAULT_THEATRE_SLUG = "scotiabank-toronto";
 
 let auditoriums = {};
 let updatedAtLabel = "";
@@ -166,9 +170,28 @@ function renderDay(day) {
   return card;
 }
 
-async function main() {
+function renderTabs(theatres, activeSlug) {
+  theatreTabsEl.innerHTML = "";
+  for (const theatre of theatres) {
+    const tab = document.createElement("button");
+    tab.type = "button";
+    tab.className = "theatre-tab";
+    tab.textContent = theatre.name;
+    if (theatre.slug === activeSlug) tab.classList.add("active");
+    tab.addEventListener("click", () => loadTheatre(theatre, theatres));
+    theatreTabsEl.appendChild(tab);
+  }
+}
+
+async function loadTheatre(theatre, theatres) {
+  renderTabs(theatres, theatre.slug);
+  theatreNameEl.textContent = `IMAX at ${theatre.name}`;
+  document.title = `IMAX at ${theatre.name}`;
+  calendarEl.innerHTML = '<p class="loading">Loading showtimes&hellip;</p>';
+  updatedEl.textContent = "";
+
   try {
-    const res = await fetch("data/showtimes.json", { cache: "no-store" });
+    const res = await fetch(theatre.file, { cache: "no-store" });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
 
@@ -199,6 +222,20 @@ async function main() {
     }
   } catch (err) {
     calendarEl.innerHTML = `<p class="error">Couldn't load showtimes: ${err.message}</p>`;
+  }
+}
+
+async function main() {
+  try {
+    const res = await fetch("data/theatres.json", { cache: "no-store" });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const theatres = await res.json();
+
+    const defaultTheatre =
+      theatres.find((t) => t.slug === DEFAULT_THEATRE_SLUG) || theatres[0];
+    await loadTheatre(defaultTheatre, theatres);
+  } catch (err) {
+    calendarEl.innerHTML = `<p class="error">Couldn't load theatres: ${err.message}</p>`;
   }
 }
 

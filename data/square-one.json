@@ -1,0 +1,3903 @@
+{
+  "updatedAt": "2026-08-30T18:26:45.719Z",
+  "theatre": {
+    "id": 7420,
+    "name": "Cineplex Cinemas Mississauga Square One"
+  },
+  "auditoriums": {
+    "0000000001": {
+      "totalRows": 11,
+      "totalColumns": 29,
+      "rowLabels": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        null,
+        "F",
+        "G",
+        "H",
+        "I",
+        "J"
+      ]
+    }
+  },
+  "days": [
+    {
+      "date": "2026-08-30",
+      "movies": [
+        {
+          "title": "The Odyssey",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37617_320_470.jpg",
+          "runtimeMinutes": 172,
+          "sessions": [
+            {
+              "time": "15:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387184&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..OOOOOOOOOOOOOOOOOOAA.......",
+                ".OOOOOOOOOOOOOOOOOOOOOOO.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAOOOOOOOOOOOOOOOOOOOOOOA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "19:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387185&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAOOOOOAAAAAAAA.......",
+                ".AOAOOOOOOOOOOOOOOOOOOOO.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOOAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "23:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387186&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".OOAAAAAAOOOOOOOOAOAAAAA.....",
+                "AOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "movies": [
+        {
+          "title": "The Odyssey",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37617_320_470.jpg",
+          "runtimeMinutes": 172,
+          "sessions": [
+            {
+              "time": "11:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387187&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".OOOOOAAAAAOOOOOAAAAAAAA.....",
+                "AOOOOOOOOOOOOOOOOOOOOOAAA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOOAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "15:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387188&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAOOOOOOOOOAAAAAOO.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "19:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387189&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAOOOOOOOOOOOAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "23:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387190&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAOOAAAAAAAAA.....",
+                "AOOOOOOOOOOOOOOOOOOOOOOAA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOOOA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "movies": [
+        {
+          "title": "The Odyssey",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37617_320_470.jpg",
+          "runtimeMinutes": 172,
+          "sessions": [
+            {
+              "time": "11:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387191&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAOOOOOOOOOOOAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAOOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "15:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387192&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAOOOOOOOOOOOOOOAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAOOOOOOOOOOOOOOOOOOOOOAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "19:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387193&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAOOOOOOOOOOAAAAAAA.......",
+                ".OOOOOOOOOOOOOOOOOOOOOOA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "23:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387194&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAOOOOOOOOOOAAAAAAA.....",
+                "AOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "movies": [
+        {
+          "title": "The Odyssey",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37617_320_470.jpg",
+          "runtimeMinutes": 172,
+          "sessions": [
+            {
+              "time": "11:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387195&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAOOOOAAAAAAAAA.....",
+                "AAAAOOOOOOOOOOOOOOOOOOOAA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "15:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387196&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAOOOOOAAAAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "19:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387197&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAOOOOOOOOOOOOOOOAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "23:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387198&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAOOOAAAAAAAAAA.....",
+                "AAAOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "movies": [
+        {
+          "title": "The Odyssey",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37617_320_470.jpg",
+          "runtimeMinutes": 172,
+          "sessions": [
+            {
+              "time": "11:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387199&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAOOOOAAAAAAAAAA.....",
+                "AAOOOOOOOOOOOOOOOOOOOOOAA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAOOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "15:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387200&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAOOOOOAAAAAAAAA.....",
+                "AOOOOOOOOOOOOOOOOOOOOOOOA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "19:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387201&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAOOOOOOOOOOAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "23:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387202&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAOOAAAAAAAAAA.....",
+                "AAAAOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "movies": [
+        {
+          "title": "The Odyssey",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37617_320_470.jpg",
+          "runtimeMinutes": 172,
+          "sessions": [
+            {
+              "time": "11:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387203&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAOOAAAAAAAAAAAAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOOAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "15:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387204&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAOOOOOOAAAAAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "19:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387205&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".OOAAAAAOOOOOOOOOOOAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOAO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "23:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387206&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAOOAAAAAAAAAO.....",
+                "AAOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAOOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "movies": [
+        {
+          "title": "The Odyssey",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37617_320_470.jpg",
+          "runtimeMinutes": 172,
+          "sessions": [
+            {
+              "time": "11:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387207&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAOOOOOOOAAAAAAA.....",
+                "AOOOOOOOOOOOOOOOOOOOOOOOA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "15:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387208&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAOOOOOOOOOAAAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "19:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387209&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAOOAAOOOOOOOOOOOOOAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "23:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387210&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAOOOOOOAAAAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "movies": [
+        {
+          "title": "The Odyssey",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37617_320_470.jpg",
+          "runtimeMinutes": 172,
+          "sessions": [
+            {
+              "time": "11:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387211&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAOOOOAAAAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "15:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387212&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAOOOOAAAAAAA.......",
+                ".AAAAOOOOOOOOOOOOOOAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "19:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387213&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAOOOOOOOOOOAAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "23:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387214&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAOOAAAAAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOAA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "movies": [
+        {
+          "title": "The Odyssey",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37617_320_470.jpg",
+          "runtimeMinutes": 172,
+          "sessions": [
+            {
+              "time": "11:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387215&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAOOOOOOOOAAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAOOOOOOOOOOOOOOOOOOOOOAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "15:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387216&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAOOOOOOOOAAAAAAA.....",
+                "AOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "19:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387217&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".OOAAAAAAAOOOOOOOAAAAAAA.....",
+                "AOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "23:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387218&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAOOOOOOOOOOOOOOOOAAAAA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "movies": [
+        {
+          "title": "The Odyssey",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37617_320_470.jpg",
+          "runtimeMinutes": 172,
+          "sessions": [
+            {
+              "time": "14:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387219&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAOOAAAAAAAA.......",
+                ".AAAAAAAAAAAOOAAAAAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAOOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "18:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387220&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAOOOOOOOOOOOAAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAOOOOOOOOOOOOOOOOOOOOOAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "22:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387221&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAOOOOOAAAAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "movies": [
+        {
+          "title": "The Odyssey",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37617_320_470.jpg",
+          "runtimeMinutes": 172,
+          "sessions": [
+            {
+              "time": "14:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387222&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAOOOOOOOOOOOOOOOOOOOAAA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOOAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "18:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387223&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAOOOOOAAAAAAAAA.....",
+                "AOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "22:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387224&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAOOAAAAAAAAA.....",
+                "AAAAOOOOOOOOOOOOOOOOOOOAA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "movies": [
+        {
+          "title": "The Odyssey",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37617_320_470.jpg",
+          "runtimeMinutes": 172,
+          "sessions": [
+            {
+              "time": "14:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387225&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAOOAAAAAAAAAA.....",
+                "AAAOOOOOOOOOOOOOOOOOOOOOA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "18:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387226&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAOOOOOAAAAAAAAA.....",
+                "AOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "22:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387227&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAOAAAAAAAAAA.....",
+                "OOAAOOOOOOOOOOOOOOOOOOAAA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                ".AAOOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "movies": [
+        {
+          "title": "The Odyssey",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37617_320_470.jpg",
+          "runtimeMinutes": 172,
+          "sessions": [
+            {
+              "time": "11:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387228&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAOOOOAOOOOOOOOOOOOOOOOAA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "15:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387229&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAOAAAAAAAAAAA.....",
+                "AAOOOOOOOOOOOOOOOOOOOAAAA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "19:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387230&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAOOOOOOOOAAAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOOAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "23:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387231&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..OAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAOOAAAAAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOAAA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "movies": [
+        {
+          "title": "The Odyssey",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37617_320_470.jpg",
+          "runtimeMinutes": 172,
+          "sessions": [
+            {
+              "time": "11:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387232&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAOOOOOOOOAAAOOOOO.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "15:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387233&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".OOOAAAAAAOOOOOOAAAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "19:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387234&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAOOOOOAAAAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "23:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387235&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AOOOOOOOOOOOOOOOOOOOOOOOA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOOAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "movies": [
+        {
+          "title": "The Odyssey",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37617_320_470.jpg",
+          "runtimeMinutes": 172,
+          "sessions": [
+            {
+              "time": "11:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387236&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAOOOOOAAAAAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "15:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387237&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAOOOOOOOOOOAAAAAAA.....",
+                "OOAOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "19:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387238&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAOOOOAAAAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOOAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "movies": [
+        {
+          "title": "The Odyssey",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37617_320_470.jpg",
+          "runtimeMinutes": 172,
+          "sessions": [
+            {
+              "time": "14:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387239&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAOOOOOOOOOOOOOOOOOOOOA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "18:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387240&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAOOOOOOOOOOOOOOOOOOAAA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOOAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "22:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387241&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOAAA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "movies": [
+        {
+          "title": "The Odyssey",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37617_320_470.jpg",
+          "runtimeMinutes": 172,
+          "sessions": [
+            {
+              "time": "14:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387242&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAOOOOAAAAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOAAOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAOOOOOOOOOOOOOOOOOOOOOAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "18:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387243&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAOOOOOOOOAAAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "22:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387244&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAOOOAAAAAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "movies": [
+        {
+          "title": "The Odyssey",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37617_320_470.jpg",
+          "runtimeMinutes": 172,
+          "sessions": [
+            {
+              "time": "14:05",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387245&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAOOOOOOOOOOOOOOOAAAAA....",
+                "OAOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "18:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387246&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAOOAAAAAAAAA.......",
+                ".AAAAAAAAAAAOOOOOOOAAAAA.....",
+                "AAOOOOOOOOOOOOOOOOOOOAOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOOAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "22:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387247&a=0000000001&l=7420&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAOAAAAAAAAAA.....",
+                "AAOOOOOOOOOOOOOOOOOOOOOOA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOAA..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-14",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "18:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388123&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..OOOOOOOOOOOOOOOOOOOO.......",
+                ".OOOOOOOOOOOOOOOOOOOOOOO.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAOOOOOOOOOOOOOOOOOOOOOAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "18:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388124&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..OOOOOOOOOOOOOOOOOOOO.......",
+                ".OOOOOOOOOOOOOOOOOOOOOOO.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AOOOOOOOOOOOOOOOOOOOOOOAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-17",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "15:55",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388016&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAOOOAAAAAAAAAA.....",
+                "AAAAOOAOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOAAA..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388017&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".OAAAAAAOOOOOOOOAAAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAOOOOOOOOOOOOOOOOOOOOOAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388018&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAOOOOOOOAAAAAAAAA.....",
+                "AAOOOOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-18",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388022&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAOOOOOOOOOOOOOOOOAAAAAA....",
+                "AAAOOOOOOOOOOOOOOOOOOOOAAAA..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388021&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAOOAAAAAAAAAA.....",
+                "AAAAOOOOOOOOOOOOOOOAAAAAA....",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOOAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388020&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAOOOOOOOOOOOOOOOAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOAAO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAOOOOOOOOOOOOOOOOOOOOOAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388019&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAOOOOOOAAAAAAA.....",
+                "OOOOOOOOOOOOOOOOOOOOOOAAA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOAAAO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-19",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388023&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAOOOOOOOOOOOOOOOAAO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOAAA..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388026&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAOOOOOOOOOOOOOAAAAAAA....",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOAA..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388025&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAOOOOOOOOAAAAAAA.....",
+                "AAAAAOOOOOOOOOOOOOOOOOOOO....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOOOA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388024&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAOOOOOOOOOOOOOOOAAAAAA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-20",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388030&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAOOOOOAOOOOOOOAAAAAAAA....",
+                "AAAOOOOOOOOOOOOOOOOOOOOOOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOOOA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388027&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAOOOOOOOOAAAAAAAAA....",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOAA..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388028&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAOOOOAAAAAAAAA.....",
+                "AAAAAAAOOOOOOOOOOAAAAAAAA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOAOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOOAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388029&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAOOOOOOOOOOAAAAAAAA....",
+                "OAAAAOOOOOOOOOOOOOOOOOAAAAA..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-21",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388031&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAOOOAAAAAAAAAA....",
+                "AAAAAAOOOOOOOOOOOOOOOAAAAAA..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388034&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAOAAAAAAAAAAA....",
+                "AAAAOOOOOOOOOOOOOOOOAAAAOOO..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388033&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAOOOOOOOOAAAAAAAA....",
+                "AAAAAAOOAOOOOOOOOOOOAAAAAAA..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388032&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAOOOOOOOAAAAAAAAAAA..",
+                ".AAAAOOOOOOOOOOOOOOOOOAAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-22",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388038&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAOAAAAAAAAAAA....",
+                "AAAAAAAAAOOOOOOOOAAAAAAAAAA..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOA."
+              ]
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388035&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAOOOOOOOOOOOOOOOOAAAAA..",
+                ".AAAAOOOOOOOOOOOOOOOOOAAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388036&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAOOOOOOOOOAAAAAAAA....",
+                "OOOOOOOOOOOOOOOOOOOOOOOOAAA..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388037&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAOOOOOOOOOOOOOOOOAAAAAAA..",
+                ".AAAOOOOOOOOOOOOOOOOOOAAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-23",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388042&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAOOAAAAAAAAAAAAA..",
+                ".AAAAAOOOOOOOOOOOOOOAAAAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388039&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAOOOOOOOOOOAAAAAAAAAA..",
+                ".AAAOOOOOOOOOOOOOOOOAAAAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388040&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAOOAAAAAAAAAAA....",
+                "AAOOOOOOOOOOOOOOOOOOOAAAAAA..",
+                ".AAAOOOOOOOOOOOOOOOOOAAAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388041&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAOOOOOOOOOAAAAAAAAA..",
+                ".AAAOOOOOOOOOOOOOOOOOAAAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-24",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388043&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAOAAAAAAAAAAAAA..",
+                ".AAAAAOOOOOOOOOOOAAAAAAAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOAA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388046&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAOOOOOOAAAAAAAAAAAA..",
+                ".AAAAAAAOOOOOOOOOOAAAAAAAA...",
+                ".............................",
+                "AOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388045&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAOOOAAAAAAAAAAAA..",
+                ".AAAAAAAOOOOOOOOOOOOAAAAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388044&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAOOAAAAAAAAAAAA..",
+                ".AAAAAAOOOOOOOOOOOAAAAAAAA...",
+                ".............................",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-25",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388049&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAOOOOOOOOAAAAAAAAA...",
+                ".............................",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOA."
+              ]
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388048&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAOOOOOAAAAAAAAAAA..",
+                ".AAAAAAAOOOOOOOOOOOAAAAAAA...",
+                ".............................",
+                "AOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388047&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAOOAAAAAAAAAAAAA..",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388050&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAOOOOOOOAAAAAAAAAA..",
+                ".AAAAAAOOOOOOOOOOOOAAAAAAA...",
+                ".............................",
+                "AOOOOOOOOOOOOOOOOOOOOOOAAAA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOA."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-26",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388052&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAOOOOAAAAAAAAAAAAA..",
+                ".AAAAAOOOOOOOOOOOOOOAAAAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388053&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAOOOOOOOOAOAAAAAAAAA..",
+                ".AAAAAOOOOOOOOOOOOOOOOAAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388054&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAOAAAAAAAAAAAAA..",
+                ".AAAAAAOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388051&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAOOOOOOOOOOOOOAAAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOA."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-27",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388056&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAOOAAAAAAAAAAA....",
+                "AAAAAAAAAAAOOOOAAAAAAAAAAAA..",
+                ".AAAAAOOOOOOOOOOOOOAAAAAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOAAA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388057&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAOOOOOOOAAAAAAAAA..",
+                ".AAAAAOOOOOOOOOOOOOOOOOAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388058&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAOOOOAAAAAAAAAAAAA..",
+                ".AAAAOOOOOOOOOOOOOOOOOAAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388055&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAOOOOOOOOAAAAAAAAA...",
+                ".............................",
+                "AAAOOOOOOOOOOOOOOOOOOOOAAAA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-28",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388059&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAOOOOOOOOOOOAAAAAAAA...",
+                ".............................",
+                "AAAOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "AAOOOOOOOOOOOOOOOOOOOOOOAAA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388062&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAOOAAAAAAAAAAAAA..",
+                ".AAAOOOOOOOOOOOOOOOOAAAAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOAAA..",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388061&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAOOOOAAAAAAAAAAAA..",
+                ".AAAAAOOOOOOOOOOOOOOOOAAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOAOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388060&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAOOOOOOOOAAAAAAAAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOA."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-29",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388066&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAOOOOAAAAAAAAAAAA..",
+                ".AAAAAAAOOOOOOOOOOOOOOAAAA...",
+                ".............................",
+                "AOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OAOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "AOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388063&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAOOOOAAAAAAAAAAAAA..",
+                ".AAAAAOOOOOOOOOOOOOOOAAAAA...",
+                ".............................",
+                "AOOOOOOOOOOOOOOOOOOOOOOOAAA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOAA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOAA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388064&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAOOOAAAAAAAAAA....",
+                "AAAAAAAAOOOOOOOOOOAAAAAAAAA..",
+                ".AAAAAOOOOOOOOOOOOOOOAAAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388065&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAOOOOAAAAAAAAAAAA..",
+                ".AAAAAAAAOOOOOOOOOAAAAAAAA...",
+                ".............................",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OAOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-30",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388070&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAOOOOOOOOAAAAAAAAAA...",
+                ".............................",
+                "AAAAOOOOOOOOOOOOOOOOOOOAAAA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOAAA..",
+                "AOOOOOOOOOOOOOOOOOOOOOOOOAAA.",
+                "AOOOOOOOOOOOOOOOOOOOOOOOOAA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOAAA."
+              ]
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388067&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAOOOOOOOAAAAAAAAA...",
+                ".............................",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOAA..",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOAA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOAA."
+              ]
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388068&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAOOAAAAAAAAAAAAA..",
+                ".AAAAAAAOOOOOOOOOOOOAAAAAA...",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "AOOOOOOOOOOOOOOOOOOOOOOOOAA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOA."
+              ]
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388069&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAOOOOOOOOOOAAAAAAAAA...",
+                ".............................",
+                "AAAAOOOOOOOOOOOOOOOOOOAAAAA..",
+                "OOOOOOOOOOOOOOOOOOOOOOAAAAA..",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOAA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOAAA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOA."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-31",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388074&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAOOOOOOOAAAAAAAAAAA...",
+                ".............................",
+                "AAAAOOOOOOOOOOOOOOOOOOOAAAA..",
+                "AAAAOOOOOOOOOOOOOOOOOOOAAAA..",
+                "AAAAOOOOOOOOOOOOOOOOOOOOAAAA.",
+                "AAAAOOOOOOOOOOOOOOOOOOOOOAA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOAAAAA."
+              ]
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388071&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAAOOOOOAAAAAAAAA...",
+                ".............................",
+                "AAAAAOOOOOOOOOOOOOOOAAAAAAA..",
+                "AAAAOOOOOOOOOOOOOOOOOOOOAAA..",
+                "AAAAOOOOOOOOOOOOOOOOOOOAAAAA.",
+                "AAAAOOOOOOOOOOOOOOOOOOOAAAA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388072&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAOOOOOAAAAAAAAAAA...",
+                ".............................",
+                "AAAAAAAOOOOOOOOOOOOOOAAAAAA..",
+                "AAAAAOOOOOOOOOOOOOOOOOAAAAA..",
+                "AAOOOOOOOOOOOOOOOOOOOOAAAAAA.",
+                "AAAAOOOOOOOOOOOOOOOOOOOAAAA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOAAA."
+              ]
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388073&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAAOOAAAAAAAAAAAA...",
+                ".............................",
+                "AAAAAAOOOOOOOOOOOOOOAAAAAAA..",
+                "AAAOOOOOOOOOOOOOOOOOOOAAAAA..",
+                "AAAOOOOOOOOOOOOOOOOOOOAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOOOOAAAAA..",
+                "AAAAAAAOOOOOOOOOOOOAAAAAAAAA."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2027-01-01",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "11:15",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388077&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAOOOOOOAAAAAAAAAA...",
+                ".............................",
+                "AAAAOOOOOOOOOOOOOOOOOAAAAAA..",
+                "AAAAOOOOOOOOOOOOOOOOOOAAAAA..",
+                "AAAOOOOOOOOOOOOOOOOOOOOOAAAA.",
+                "AAAOOOOOOOOOOOOOOOOOOOOAAAA..",
+                "AOOOOOOOOOOOOOOOOOOOOOOAAAAA."
+              ]
+            },
+            {
+              "time": "15:05",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388076&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAOOOOOOOOOOOOAAAAAAA...",
+                ".............................",
+                "AAAAAOOOOOOOOOOOOOOOOOOAAAA..",
+                "AAOOOOOOOOOOOOOOOOOOOOOAAAA..",
+                "AAOOOOOOOOOOOOOOOOOOOOOOAAAA.",
+                "AAAOOOOOOOOOOOOOOOOOOOOOOAA..",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "18:55",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388075&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAOOOOOOOOAAAAAAAAAA..",
+                ".AAAAAAAOOOOOOOOOAAAAAAAAA...",
+                ".............................",
+                "AAAOOOOOOOOOOOOOOOOOOOAAAAA..",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOAAA.",
+                "AOOOOOOOOOOOOOOOOOOOOOOOOAA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOAA."
+              ]
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388078&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAAOOOAAAAAAAAAAA...",
+                ".............................",
+                "AAOOOOOOOOOOOOOOOOOOOAAAAAA..",
+                "AAAAOOOOOOOOOOOOOOOOOOAAAAA..",
+                "AAAAOOOOOOOOOOOOOOOOOOOOOAAA.",
+                "AAAAOOOOOOOOOOOOOOOOOOOAAAA..",
+                "AAOOOOOOOOOOOOOOOOOOOOOAAAAA."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2027-01-02",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "11:15",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388080&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAOOOAAAAAAAAAAAA..",
+                ".AAAAAAAAOOOOOOOOOAAAAAAAA...",
+                ".............................",
+                "AAAAOOOOOOOOOOOOOOOOOOOOAAA..",
+                "AAAOOOOOOOOOOOOOOOOOOOAAAAA..",
+                "AAOOOOOOOOOOOOOOOOOOOOOAAAOO.",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "15:05",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388081&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAOOOOOOAAAAAAAAAAA..",
+                ".AAAAAAAAOOOOOOOOOOOAAAAAA...",
+                ".............................",
+                "AAAOOOOOOOOOOOOOOOOOOOAAAAA..",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "18:55",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388082&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAOOOOOOOOOOOOAAAAAA...",
+                ".............................",
+                "AAAOOOOOOOOOOOOOOOOOOOOOAAA..",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "AAAOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOA."
+              ]
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388079&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAOOOOOAAAAAAAAAA...",
+                ".............................",
+                "AAAAOOOOOOOOOOOOOOOOOOAAAAA..",
+                "AAAAOOOOOOOOOOOOOOOOOOOOAAA..",
+                "AAAAOOOOOOOOOOOOOOOOOOOOOAAA.",
+                "AAAOOOOOOOOOOOOOOOOOOOOAAAA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOAA."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2027-01-03",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "11:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388084&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAOOOOOOOOAAAAAAAAAA...",
+                ".............................",
+                "AAAOOOOOOOOOOOOOOOOOOOOAAAA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOAAA..",
+                "AAAOOOOOOOOOOOOOOOOOOOOOAAAO.",
+                "AOOOOOOOOOOOOOOOOOOOOOOOAAA..",
+                "OAOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "14:50",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388085&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAOOOOOOOOOOAAAAAAAA...",
+                ".............................",
+                "AAAAOOOOOOOOOOOOOOOOOOOAAAA..",
+                "AAOOOOOOOOOOOOOOOOOOOOOOAAA..",
+                "OAAOOOOOOOOOOOOOOOOOOOOOAAAA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "AOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "18:40",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388086&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAOOOOAAAAAAAAAAA...",
+                ".............................",
+                "AAAOOOOOOOOOOOOOOOOOAAAAAAA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "AAOOOOOOOOOOOOOOOOOOOOOOAAAA.",
+                "AOOOOOOOOOOOOOOOOOOOOOOOOAA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "22:30",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388083&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAOOOOAAAAAAAAAAA...",
+                ".............................",
+                "AAAAAAOOOOOOOOOOOOOOAAAAAAA..",
+                "AAAAOOOOOOOOOOOOOOOOAAAAAAA..",
+                "AAAAOOOOOOOOOOOOOOOOOAAAAAAA.",
+                "AAAAAOOOOOOOOOOOOOOOOOOOAAA..",
+                "AAAOOOOOOOOOOOOOOOOOOAAAAAAA."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2027-01-04",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "14:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388087&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
+                ".............................",
+                "AAAAAAAAOOOOOOOOOOOAAAAAAAA..",
+                "AAAAAAAAOOOOOOOOOOOOOAAAAAA..",
+                "AAAAAAOOOOOOOOOOOOOOAAAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOAAAAAAAA..",
+                "AAAAAAOOOOOOOOOOOOOOOOAAAAAA."
+              ]
+            },
+            {
+              "time": "18:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388088&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAOOOOOAAAAAAAAAAA...",
+                ".............................",
+                "AAAAAAAOOOOOOOOOOOOOAAAAAAA..",
+                "AAAAOOOOOOOOOOOOOOOOOAAAAAA..",
+                "AAAOOOOOOOOOOOOOOOOOOOOOAAAA.",
+                "AAAAOOOOOOOOOOOOOOOOOAAAAAA..",
+                "AAAAOOOOOOOOOOOOOOOOOAAAAAAA."
+              ]
+            },
+            {
+              "time": "22:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388089&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAOOOOAAAAAAAAAAA...",
+                ".............................",
+                "AAAAAAAAOOOOOOOOOOOOAAAAAAA..",
+                "AAAAAOOOOOOOOOOOOOOAAAAAAAA..",
+                "AAAAAAOOOOOOOOOOOOOAAAAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOAAAAAAAA..",
+                "AAAAAAOOOOOOOOOOOOOAAAAAAAAA."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2027-01-05",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "14:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388092&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAAOOOAAAAAAAAAAA...",
+                ".............................",
+                "AAAAAOOOOOOOOOOOOOOAAAAAAAA..",
+                "AAAAAOOOOOOOOOOOOOOAAAAAAAA..",
+                "AAAAAOOOOOOOOOOOOOOOAAAAAAAA.",
+                "AAAAAOOOOOOOOOOOOOOOOAAAAAA..",
+                "AAAAAOOOOOOOOOOOOOOOOAAAAAAO."
+              ]
+            },
+            {
+              "time": "18:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388091&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAOOOOOOAAAAAAAAA...",
+                ".............................",
+                "AAAOOOOOOOOOOOOOOOOOOAAOOOO..",
+                "AAAAOOOOOOOOOOOOOOOOOOAAAAA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOAAA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOAA."
+              ]
+            },
+            {
+              "time": "22:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388090&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAAAOOAAAAAAAAAAA...",
+                ".............................",
+                "AAAAOOOOOOOOOOOOOOOOOOAAAAA..",
+                "AAAAAAAOOOOOOOOOOOOOOAAAAAA..",
+                "AAAAAOOOOOOOOOOOOOOOOOOOOOAA.",
+                "AAAAOOOOOOOOOOOOOOOOOAAAAAA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOAAAA."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2027-01-06",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "14:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388095&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
+                ".............................",
+                "AAAAAAAAOOOOOOOOOOOOAAAAAAA..",
+                "AAAAAAAAAOOOOOOOOOAAAAAAAAA..",
+                "AAAAAAAAOOOOOOOOOOOOAAAAAAAA.",
+                "AAAAAAAOOOOOOOOOOOOAAAAAAAA..",
+                "AAAAAAAAAOOOOOOOOAAAAAAAAAAA."
+              ]
+            },
+            {
+              "time": "18:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388094&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAOOOAAAAAAAAAAAA...",
+                ".............................",
+                "AAAAAAAAOOOOOOOOOOAAAAAAAAA..",
+                "AAAAAAAOOOOOOOOOOOOOOOAAAAA..",
+                "AAAAAOOOOOOOOOOOOOOOOOAAAAAA.",
+                "AAAAAOOOOOOOOOOOOOOOOAAAAAA..",
+                "AAAAAAOOOOOOOOOOOOOOOOOAAAAA."
+              ]
+            },
+            {
+              "time": "22:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388093&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
+                ".............................",
+                "AAAAAAAAOOOOOOOOOAAAAAAAAAA..",
+                "AAAAAAAOOOOOOOOOOOOAAAAAAAA..",
+                "AAAAAOOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAAOOOOOOOOOOOAAAAAAAAA..",
+                "AAAAAAAAOOOOOOOOOOOAAAAAAAAA."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2027-01-07",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "14:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388098&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAAAOAAAAAAAAAAAA...",
+                ".............................",
+                "AAAAAAAAAOOOOOOOOOAAAAAAAAA..",
+                "AAAAAAAAAAOOOOOOOOOAAAAAAAA..",
+                "AAAAAAAAOOOOOOOOOOAOAAAAAAAA.",
+                "AAAAAAAOOOOOOOOOOOAAAAAAAAA..",
+                "AAAAOOOOOOOOOOOOOOOOAAAAAAOO."
+              ]
+            },
+            {
+              "time": "18:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388097&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAOOOOOAAAAAAAAAA...",
+                ".............................",
+                "AAAAAAAAOOOOOOOOOOOAAAAAAAA..",
+                "AAAAAAOOOOOOOOOOOOOOOOAAAAA..",
+                "AAAOOOOOOOOOOOOOOOOOAAAAAAAA.",
+                "AAAAOOOOOOOOOOOOOOOOOAAAAAA..",
+                "AAAOOOOOOOOOOOOOOOOOAAAAAAAA."
+              ]
+            },
+            {
+              "time": "22:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388096&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAOOOOOOAAAAAAAAA...",
+                ".............................",
+                "AAAAAAAOOOOOOOOOOOAAAAAAAAA..",
+                "AAAAAAAAAOOOOOOOOAAAAAAAAAA..",
+                "AAAAAAOOOOOOOOOOOOOAAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOAAAAAAAAA..",
+                "AAAAAAAAOOOOOOOOOOAAAAAAAAAA."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2027-01-08",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "11:15",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388100&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
+                ".............................",
+                "AAAAAAAAAOOOOOOOOOAAAAAAAAA..",
+                "AAAAAAAOOOOOOOOOOAAAAAAAAAA..",
+                "AAAAAAAAOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOAAAAAAAAA..",
+                "AAAAAAAOOOOOOOOOAAAAAAAAAAAA."
+              ]
+            },
+            {
+              "time": "15:05",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388101&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAAOOAAAAAAAAAAAA...",
+                ".............................",
+                "AAAOOOOOOOOOOOOOOOAAAAAAAAA..",
+                "AAAAAAAAOOOOOOOOOOAAAAAAAAA..",
+                "AAAAOOOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAAOOOOOOOOOOOOOAAAAAAA..",
+                "AAAOOOOOOOOOOOOOOOOAAAAAAAAA."
+              ]
+            },
+            {
+              "time": "18:55",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388102&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAOOOOOOOOAAAAAAAAAA...",
+                ".............................",
+                "AAAAOOOOOOOOOOOOOOOOOOAAAOO..",
+                "AOOOOOOOOOOOOOOOOOOOOOAAAAA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOAAA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOAA..",
+                "AAOOOOOOOOOOOOOOOOOOOOOOAAOO."
+              ]
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388099&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAAOOOOAAAAAAAAAA...",
+                ".............................",
+                "AAAAAAAOOOOOOOOOOOOOOAAAAAA..",
+                "AAAAAAOOOOOOOOOOOOOOOAAAAAA..",
+                "AAAAAOOOOOOOOOOOOOOOOOAAAAAA.",
+                "AAAAOOOOOOOOOOOOOOOOOOAAAAA..",
+                "AAAAAOOOOOOOOOOOOOOOOOOOAAAA."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2027-01-09",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "11:15",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388105&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAOOOOOOOOAAAAAAAAA...",
+                ".............................",
+                "AAAAOOOOOOOOOOOOOOOOOOAAAAA..",
+                "AAAOOOOOOOOOOOOOOOOOOOOAAAA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOAAAA.",
+                "AOOOOOOOOOOOOOOOOOOOOOOOOAA..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOAAAO."
+              ]
+            },
+            {
+              "time": "15:05",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388104&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAOOOOAAAAAAAAAAAA..",
+                ".AAAAAAAOOOOOOOOOOOAAAAAAA...",
+                ".............................",
+                "AAAAOOOOOOOOOOOOOOOOOOOOOOO..",
+                "AAAOOOOOOOOOOOOOOOOOOOOAAAA..",
+                "AOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                "AAAOOOOOOOOOOOOOOOOOOOOAAOO..",
+                "OAAOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
+            },
+            {
+              "time": "18:55",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388103&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAOOOOOOAAAAAAAAAAA..",
+                ".AAAAAAAAOOOOOOOAAAAAAAAAA...",
+                ".............................",
+                "AAAAOOOOOOOOOOOOOOOOOOAAAAA..",
+                "AAAAOOOOOOOOOOOOOOOOOOOAAAA..",
+                "AAAOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOAOOOOOO."
+              ]
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388106&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAOOOOOOOOAAAAAAAAA...",
+                ".............................",
+                "AAAAAOOOOOOOOOOOOOOOOAAAAAA..",
+                "AAAAOOOOOOOOOOOOOOOOAAAAAAA..",
+                "AAOOOOOOOOOOOOOOOOOOOOAAAAAA.",
+                "AAOOOOOOOOOOOOOOOOOOOOOAAAA..",
+                "AAAAAOOOOOOOOOOOOOOOOOOOOAAA."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2027-01-10",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "11:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388110&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAOOOOOOOAAAAAAAAAAA...",
+                ".............................",
+                "AAAAAOOOOOOOOOOOOOOOOOAAAAA..",
+                "AAAAOOOOOOOOOOOOOOOOOAAAAAA..",
+                "AAAOOOOOOOOOOOOOOOOOOOOAAAAA.",
+                "AAAOOOOOOOAOOOOOOOOOOOOOOOO..",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOOA."
+              ]
+            },
+            {
+              "time": "14:50",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388109&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAOOOOOOOOOOAAAAAAA...",
+                ".............................",
+                "AAAAOOOOOOOOOOOOOOOOOOOOAAA..",
+                "AAAOOOOOOOOOOOOOOOOOOOOOOAA..",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOAAA.",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOA..",
+                "AAAAOOOOOOOOOOOOOOOOOOOOOAAA."
+              ]
+            },
+            {
+              "time": "18:40",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388108&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAOOOOOOOOOOAAAAAAAAAA...",
+                ".............................",
+                "AAAAOOOOOOOOOOOOOOOOOOOOAAA..",
+                "AAAAOOOOOOOOOOOOOOOOOOAAAAA..",
+                "AAOOOOOOOOOOOOOOOOOOOOOAAAAA.",
+                "AAAAOOOOOOOOOOOOOOOOOOOAAAA..",
+                "AAAAOOOOOOOOOOOOOOOOOOAAAAAA."
+              ]
+            },
+            {
+              "time": "22:30",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388107&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAAOAAAAAAAAAAAAA...",
+                ".............................",
+                "AAAAAAAAAOOOOOOOOAAAAAAAAAA..",
+                "AAAAAAAOOOOOOOOOOOOOOAAAAAA..",
+                "AAAAAAOOOOOOOOOOOOOOAAAAAAAA.",
+                "AAAAOOOOOOOOOOOOOOOOAAAAAAA..",
+                "AAAAAAAOOOOOOOOOOOOOAAAAAAAA."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2027-01-11",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "14:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388112&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
+                ".............................",
+                "AAAAAAAAAOOOOOOOOOAAAAAAAAA..",
+                "AAAAAAAAAOOOOOOOOAOOAAAAAAA..",
+                "AAAAAAAAOOOOOOOOOOOAAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOAAAAAAAA..",
+                "AAAAAAAAAOOOOOOOOOAAAAAAAAAA."
+              ]
+            },
+            {
+              "time": "18:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388111&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAAOOAAAAAAAAAAAA...",
+                ".............................",
+                "AAAAAOOOOOOOOOOOOOAAAAAAAAA..",
+                "AAAAAAAOOOOOOOOOOOOAAAAAAAA..",
+                "AAAAAAOOOOOOOOOOOOOOOAAAAAAA.",
+                "AAAAAOOOOOOOOOOOOOOOOOAAAAA..",
+                "AAOOOOOOOOOOOOOOOOOOOAAAAAAA."
+              ]
+            },
+            {
+              "time": "22:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388113&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
+                ".............................",
+                "AAAAAAAOOOOOOOOOOAAAAAAAAAA..",
+                "AAAAAAAAOOOOOOOOOAAAAAAAAAA..",
+                "AAAAAAAOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAOOOOOOOOOOOAAAAAAAAAA..",
+                "OOOAAOOOOOOOOOOOOOOOAAAAAAAA."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2027-01-12",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "14:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388115&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
+                ".............................",
+                "AAAAAAAAAOOOOOOOOAAAAAAAAAA..",
+                "AAAAAAAAOOOOOOOOOOAAAAAAAAA..",
+                "AAAAAOOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOAAAAAAAA..",
+                "AAAAAAOOOOOOOOOOOOOAAAAAAAAA."
+              ]
+            },
+            {
+              "time": "18:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388116&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAOOOOOOOOAAAAAAAA...",
+                ".............................",
+                "AAOOOOOOOOOOOOOOOOOOOAAAAAA..",
+                "AAAOOOOOOOOOOOOOOOOOOOOAAAA..",
+                "AAAAOOOOOOOOOOOOOOOOOOAAAAAA.",
+                "AAAAOOOOOOOOOOOOOOOOOOAAAAA..",
+                "AAAOOOOOOOOOOOOOOOOOOOOOOAAA."
+              ]
+            },
+            {
+              "time": "22:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388114&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAAOOAAAAAAAAAAAA...",
+                ".............................",
+                "AAAAAOOOOOOOOOOOOOOOAAAAAAA..",
+                "AAAAAOOOOOOOOOOOOOOOAAAAAAA..",
+                "AAAAAOOOOOOOOOOOOOOOOAAAAAAA.",
+                "AAAAAOOOOOOOOOOOOOOOOAAAAAA..",
+                "AAAAAOOOOOOOOOOOOOOOOAAAAAAA."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2027-01-13",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "14:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388118&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
+                ".............................",
+                "AAAAAAAOOOOOOOOOAAAAAAAAAAA..",
+                "AAAAAAAAOOOOOOOOOOAAAAAAAAA..",
+                "AAAAAAAAOOOOOOOOOOOAAAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOAAAAAAAAAA..",
+                "AAAAAAAAAOOOOOOOOOAAAAAAAAAA."
+              ]
+            },
+            {
+              "time": "18:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388119&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAAOOOAAAAAAAAAAA...",
+                ".............................",
+                "AAAAAAOOOOOOOOOOOOAAAAAAAAA..",
+                "AAAAAAAOOOOOOOOOOOOAAAAAAAA..",
+                "AAAAAAOOOOOOOOOOOOOOAAAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOOAAAAAAA..",
+                "AAAOOOOOOOOOOOOOOOOAAAAAAAAA."
+              ]
+            },
+            {
+              "time": "22:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388117&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
+                ".............................",
+                "AAAAAAAAAOOOOOOOOOOAAAAAAAA..",
+                "AAAAAAAAAOOOOOOOOOOOOOAAAAA..",
+                "AAAAAAOOOOOOOOOOOOOOAAAAAAAA.",
+                "AAAAAAAOOOOOOOOOOOAAAAAAAAA..",
+                "AAAAAOOOOOOOOOOOOOAAAAAAAAAA."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2027-01-14",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "14:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388121&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
+                ".............................",
+                "AAAAAAAAAAOOOOOOAAAAAAAAAAA..",
+                "AAAAAAAAOOOOOOOOOAAAAAAAAAA..",
+                "AAAAAAAAAOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOAAAAAAAA..",
+                "AAAAAAAAOOOOOOOOOOAAAAAAAAAA."
+              ]
+            },
+            {
+              "time": "18:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388122&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAAOOAAAAAAAAAAAA...",
+                ".............................",
+                "AAAAAOOOOOOOOOOOOOOAAAAAAAA..",
+                "AAAAAAOOOOOOOOOOOOOOOAAAAAA..",
+                "AAAAAOOOOOOOOOOOOOOOOAAAAAAA.",
+                "AAAAOOOOOOOOOOOOOOOOOAAAAAA..",
+                "AAAOOAAAOOOOOOOOOOOOOOOAAAAA."
+              ]
+            },
+            {
+              "time": "22:00",
+              "format": "IMAX 70mm",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388120&a=0000000001&l=7420&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "..AAAAAAAAAAAAAAAAAAAA.......",
+                ".AAAAAAAAAAAAAAAAAAAAAAA.....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAA....",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAA..",
+                ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
+                ".............................",
+                "AAAAAAOOOOOOOOOOOOAAAAAAAAA..",
+                "AAAAAAOOOOOOOOOOOOOAAAAAAAA..",
+                "AAAAAOOOOOOOOOOOOOOAAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOOAAAAAAA..",
+                "AAAAAAAAOOOOOOOOOOOOAAAAAAAA."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
