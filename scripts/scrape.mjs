@@ -100,11 +100,23 @@ function compactSeats(layout, seatAvailabilities) {
   return rows;
 }
 
+function seatTypeChar(type) {
+  return type === "Wheelchair" ? "W" : type === "Companion" ? "C" : "S";
+}
+
 function compactLayout(layout) {
   return {
     totalRows: layout.totalRows,
     totalColumns: layout.totalColumns,
     rowLabels: (layout.standardSeats?.rows ?? []).map((r) => r.label),
+    seatTypes: (layout.standardSeats?.rows ?? []).map((row) => {
+      let line = "";
+      for (let col = 1; col <= layout.totalColumns; col++) {
+        const seat = row.seats.find((s) => s.column === col);
+        line += seat ? seatTypeChar(seat.type) : ".";
+      }
+      return line;
+    }),
   };
 }
 

@@ -30,21 +30,31 @@ function renderSeatPopover(session, chipEl) {
   const grid = document.createElement("div");
   grid.className = "seat-grid";
   grid.style.gridTemplateColumns = `repeat(${layout.totalColumns}, 1fr)`;
-  for (const rowStr of session.seats) {
-    for (const ch of rowStr) {
+  session.seats.forEach((rowStr, rowIndex) => {
+    const typeStr = layout.seatTypes?.[rowIndex] ?? "";
+    for (let col = 0; col < rowStr.length; col++) {
+      const ch = rowStr[col];
+      const typeCh = typeStr[col] ?? "S";
       const cell = document.createElement("span");
       cell.className =
         "seat " +
-        (ch === "A" ? "seat-available" : ch === "O" ? "seat-occupied" : "seat-none");
+        (ch === "A"
+          ? typeCh === "W" || typeCh === "C"
+            ? "seat-available-accessible"
+            : "seat-available"
+          : ch === "O"
+          ? "seat-occupied"
+          : "seat-none");
       grid.appendChild(cell);
     }
-  }
+  });
   seatPopover.appendChild(grid);
 
   const legend = document.createElement("div");
   legend.className = "seat-legend";
   legend.innerHTML = `
     <span><span class="seat-swatch seat-available"></span> Available</span>
+    <span><span class="seat-swatch seat-available-accessible"></span> Accessible</span>
     <span><span class="seat-swatch seat-occupied"></span> Occupied</span>
   `;
   seatPopover.appendChild(legend);
