@@ -68,6 +68,13 @@ document.addEventListener("click", (e) => {
   }
 });
 
+function formatTimeLabel(timeStr) {
+  const [h, m] = timeStr.split(":").map(Number);
+  const period = h < 12 ? "AM" : "PM";
+  const hour12 = h % 12 || 12;
+  return `${hour12}:${String(m).padStart(2, "0")} ${period}`;
+}
+
 function formatDayLabel(dateStr) {
   const date = new Date(dateStr + "T00:00:00");
   return date.toLocaleDateString(undefined, {
@@ -102,7 +109,7 @@ function renderMovie(movie) {
       ? document.createElement("a")
       : document.createElement("span");
     chip.className = "session";
-    chip.textContent = session.time;
+    chip.textContent = formatTimeLabel(session.time);
     if (session.ticketUrl) {
       chip.href = session.ticketUrl;
       chip.target = "_blank";
