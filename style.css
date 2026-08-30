@@ -1,0 +1,169 @@
+:root {
+  color-scheme: light dark;
+  --bg: #0f1115;
+  --card-bg: #1a1d24;
+  --text: #e8e8ea;
+  --muted: #9a9ea6;
+  --accent: #ff5b5b;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+header {
+  padding: 1.5rem 1rem 0.75rem;
+  text-align: center;
+}
+
+h1 {
+  margin: 0 0 0.25rem;
+  font-size: clamp(1.2rem, 4vw, 1.6rem);
+}
+
+.refresh-note {
+  margin: 0 0 0.15rem;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.updated {
+  margin: 0;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.calendar {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 1rem 1rem 2rem;
+}
+
+.day-card {
+  background: var(--card-bg);
+  border-radius: 12px;
+  padding: 1rem;
+  min-width: 0;
+}
+
+.day-card h2 {
+  margin: 0 0 0.75rem;
+  font-size: 1rem;
+  color: var(--accent);
+}
+
+.movie {
+  display: flex;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+  min-width: 0;
+}
+
+.movie:last-child {
+  margin-bottom: 0;
+}
+
+.movie img {
+  width: 56px;
+  height: 82px;
+  object-fit: cover;
+  border-radius: 6px;
+  flex-shrink: 0;
+  background: #333;
+}
+
+.movie-info {
+  min-width: 0;
+}
+
+.movie-title {
+  font-weight: 600;
+  font-size: 0.9rem;
+  margin: 0 0 0.4rem;
+  overflow-wrap: break-word;
+}
+
+.sessions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.session {
+  font-size: 0.78rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 999px;
+  background: #2a2e37;
+  color: var(--text);
+  text-decoration: none;
+}
+
+a.session:hover {
+  background: var(--accent);
+  color: #fff;
+}
+
+.loading,
+.empty,
+.error {
+  grid-column: 1 / -1;
+  color: var(--muted);
+  padding: 2rem;
+  text-align: center;
+}
+
+@media (max-width: 480px) {
+  .calendar {
+    grid-template-columns: 1fr;
+  }
+}
+
+.site-footer {
+  text-align: center;
+  padding: 1rem 1rem 2rem;
+  font-size: 0.7rem;
+  color: var(--muted);
+}
+
+.site-footer p {
+  margin: 0 0 0.5rem;
+}
+
+.github-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.visitor-badge {
+  opacity: 0.7;
+}
+
+.site-footer a {
+  color: var(--muted);
+  text-decoration: none;
+}
+
+.site-footer a:hover {
+  color: var(--text);
+  text-decoration: underline;
+}

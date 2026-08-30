@@ -1,0 +1,656 @@
+{
+  "updatedAt": "2026-08-30T04:57:09.027Z",
+  "theatre": {
+    "id": 7402,
+    "name": "Scotiabank Theatre Toronto"
+  },
+  "days": [
+    {
+      "date": "2026-08-30",
+      "movies": [
+        {
+          "title": "The Odyssey",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37617_320_470.jpg",
+          "runtimeMinutes": 172,
+          "sessions": [
+            {
+              "time": "11:00",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454674&a=0000000001&l=7402&m=the-odyssey&ss=False"
+            },
+            {
+              "time": "14:50",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454692&a=0000000001&l=7402&m=the-odyssey&ss=False"
+            },
+            {
+              "time": "18:40",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454710&a=0000000001&l=7402&m=the-odyssey&ss=False"
+            },
+            {
+              "time": "22:30",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454729&a=0000000001&l=7402&m=the-odyssey&ss=False"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "movies": [
+        {
+          "title": "The Odyssey",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37617_320_470.jpg",
+          "runtimeMinutes": 172,
+          "sessions": [
+            {
+              "time": "11:00",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454732&a=0000000001&l=7402&m=the-odyssey&ss=False"
+            },
+            {
+              "time": "14:50",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454749&a=0000000001&l=7402&m=the-odyssey&ss=False"
+            },
+            {
+              "time": "18:40",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454766&a=0000000001&l=7402&m=the-odyssey&ss=False"
+            },
+            {
+              "time": "22:30",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454784&a=0000000001&l=7402&m=the-odyssey&ss=False"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "movies": [
+        {
+          "title": "The Odyssey",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37617_320_470.jpg",
+          "runtimeMinutes": 172,
+          "sessions": [
+            {
+              "time": "11:00",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454787&a=0000000001&l=7402&m=the-odyssey&ss=False"
+            },
+            {
+              "time": "14:50",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454804&a=0000000001&l=7402&m=the-odyssey&ss=False"
+            },
+            {
+              "time": "18:40",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454821&a=0000000001&l=7402&m=the-odyssey&ss=False"
+            },
+            {
+              "time": "22:30",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454839&a=0000000001&l=7402&m=the-odyssey&ss=False"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "movies": [
+        {
+          "title": "The Odyssey",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37617_320_470.jpg",
+          "runtimeMinutes": 172,
+          "sessions": [
+            {
+              "time": "11:00",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454844&a=0000000001&l=7402&m=the-odyssey&ss=False"
+            },
+            {
+              "time": "14:50",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454861&a=0000000001&l=7402&m=the-odyssey&ss=False"
+            },
+            {
+              "time": "18:40",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454877&a=0000000001&l=7402&m=the-odyssey&ss=False"
+            },
+            {
+              "time": "22:30",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454894&a=0000000001&l=7402&m=the-odyssey&ss=False"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "movies": [
+        {
+          "title": "The Odyssey",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37617_320_470.jpg",
+          "runtimeMinutes": 172,
+          "sessions": [
+            {
+              "time": "14:50",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454913&a=0000000001&l=7402&m=the-odyssey&ss=False"
+            },
+            {
+              "time": "18:40",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454929&a=0000000001&l=7402&m=the-odyssey&ss=False"
+            },
+            {
+              "time": "22:30",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454946&a=0000000001&l=7402&m=the-odyssey&ss=False"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "18:00",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454095&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-17",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "15:55",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454096&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454097&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454098&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-18",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454102&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454101&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454100&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454099&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-19",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454103&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454104&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454105&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454106&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-20",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454108&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454107&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454110&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454109&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-21",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454112&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454111&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454114&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454113&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-22",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454117&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454118&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454115&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454116&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-23",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454121&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454122&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454119&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454120&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-24",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454124&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454123&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454126&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454125&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-25",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454534&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454533&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454532&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454531&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-26",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454535&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454536&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454537&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454538&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-27",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454542&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454541&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454540&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454539&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-28",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454546&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454545&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454544&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454543&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-29",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454550&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454549&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454548&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454547&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-30",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454551&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454552&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454553&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454554&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-31",
+      "movies": [
+        {
+          "title": "Dune: Part 3",
+          "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37998_320_470.jpg",
+          "runtimeMinutes": 140,
+          "sessions": [
+            {
+              "time": "12:35",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454555&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "15:55",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454556&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "19:25",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454557&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            },
+            {
+              "time": "22:45",
+              "format": "IMAX Laser Projection",
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454558&a=0000000001&l=7402&m=dune-part-3&ss=False"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
