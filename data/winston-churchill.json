@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T19:09:23.092Z",
+  "updatedAt": "2026-08-30T19:27:07.371Z",
   "theatre": {
     "id": 7123,
     "name": "Cineplex Cinemas Winston Churchill & VIP"
@@ -27,6 +27,26 @@
         "L",
         "M",
         "N"
+      ],
+      "seatTypes": [
+        ".................................",
+        ".SSSSSSSSSSSSSSSSSSSSSSSSSSSSS...",
+        "..CW.WCSSSSSSSSSSSSSSSSSCW.WC....",
+        ".................................",
+        ".......SSSSSSSSSSSSSSSSSSS.......",
+        ".....SSSSSSSSSSSSSSSSSSSSSS......",
+        ".....SSSSSSSSSSSSSSSSSSSSSS......",
+        ".....SSSSSSSSSSSSSSSSSSSSSS......",
+        ".....SSSSSSSSSSSSSSSSSSSSSS......",
+        ".....SSSSSSSSSSSSSSSSSSSSSS......",
+        ".SSSSSSSSSSSSSSSSSSSSSSSSSSSSS...",
+        ".SSSSSSSSSSSSSSSSSSSSSSSSSSSSS...",
+        ".SSSSSSSSSSSSSSSSSSSSSSSSSSSSS...",
+        ".SSSSSSSSSSSSSSSSSSSSSSSSSSSSS...",
+        ".SSSSSSSSSSSSSSSSSSSSSSSSSSSSS...",
+        ".SSSSSSSSSSSSSSSSSSSSSSSSSSSSS...",
+        ".SSSSSSSSSSS........SSSSCWWCSS...",
+        ".SSSSSSSSSS.........S............"
       ]
     }
   },
@@ -39,32 +59,6 @@
           "poster": "https://mediafiles.cineplex.com/Central/Film/Posters/37617_320_470.jpg",
           "runtimeMinutes": 172,
           "sessions": [
-            {
-              "time": "15:00",
-              "format": "IMAX",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=437223&a=0000000001&l=7123&m=the-odyssey&ss=False",
-              "areaCode": "0000000001",
-              "seats": [
-                ".................................",
-                ".AAAAAAAAAAAAAAAAAAAAAAAAAAAAA...",
-                "..AA.AAAAAAAAAAAAAAAAAAAAA.AA....",
-                ".................................",
-                ".......AAAAAAAAAAAAAAAAAAA.......",
-                ".....AAAAAAAAAAAAAAAAAAAAAA......",
-                ".....AAAAAAAAAAAAAAAAAAAAAA......",
-                ".....AAAAAOOOOOOOOOOAAOOAAA......",
-                ".....AAOOOOOOOOOOOOOAOOAAAA......",
-                ".....OOOOOOOOOOOOOOOOOOOOAA......",
-                ".OOAOOAOOOOOOOOOOOOOOOOOOOOAOO...",
-                ".AOOOOOOOOOOOOOOOOOOOOOOOOAAAA...",
-                ".OOOOAOOOOOOOOOOOOOOOOOOOOOOAA...",
-                ".OOAOOOOOOOOOOOOOOOOOOOOOOOAOO...",
-                ".AAOOOOOOOOOOOOOOOOOOOOOOOOAAA...",
-                ".OOOOOOAOOOOOOOOOOOOOOOOOOOAOO...",
-                ".OOOOOOOOOOO........OOOAAAAAAA...",
-                ".AAAOO??AOO.........A............"
-              ]
-            },
             {
               "time": "19:00",
               "format": "IMAX",
@@ -84,7 +78,7 @@
                 ".AAAAAAAAOOOOOOOOOOOOOOAAAAAAA...",
                 ".AAAAAAAOOOOOOOOOOOOOOOOOAAAAA...",
                 ".OOOOOOOOOOOOOOOOOOOOOOOOOOAOO...",
-                ".AAAAAAAAOOOOOOOOOOOOOOOOAAAAA...",
+                ".AAAAOOOOOOOOOOOOOOOOOOOOAAAAA...",
                 ".OOAAAOOOOOOOOOOOOOOOOOOOOAAAA...",
                 ".AAAAAAAAOOAOOOOOOOOOOOAAAAAAA...",
                 ".OOAAAAAOOOO........OOOOAAAAOO...",
@@ -235,8 +229,8 @@
                 ".....AAAAAAAAAAAAAAAAAAAAAA......",
                 ".....AAAAAAAAAAAAAAAAAAAAAA......",
                 ".....AAAAAAAAAAAAAAAAAAAAAA......",
-                ".AAAAAAAAAAAAAAAAAAAAAAAAAAAAA...",
-                ".AAAAAAAAAAAAAOOAAAAAAAAAAAAAA...",
+                ".AAAAAAAAAAAAAOOOOAAAAAAAAAAAA...",
+                ".AAAAAAAAAAAAAOOAAOOAAAAAAAAAA...",
                 ".AAAAAAAAAAAOOOOOAAAAAAAAAAAAA...",
                 ".AAAAAAAAAAAAAOOOAAAAAAAAAAAAA...",
                 ".AAAAAAAAAAAAOOOOAAAAAAAAAAAAA...",
@@ -259,11 +253,11 @@
                 ".....AAAAAAAAAAAAAAAAAAAAAA......",
                 ".....AAAAAAAAAAAAAAAAAAAAAA......",
                 ".....AAAAAAAAAOOOOAAAAAAAAA......",
-                ".....AAAAAAAAAAOOAAAAAAAAAA......",
+                ".....AAAAAAAOOOOOAAAAAAAAAA......",
                 ".....AAAAAAAAAAOOAAAAAAAAAA......",
                 ".AAAAAAAAAAAAAOOOOOAAAAAAAAAAA...",
                 ".AAAAAAAAAOOOOOOOOOOOOAAAAAAAA...",
-                ".OAAAAAOAAOOOOOOOOOOOOAAAAAAAA...",
+                ".AAAAAAOAAOOOOOOOOOOOOAAAAAAAA...",
                 ".AAAAAAAAAAOOOOOOOOOOAAAAAAAAA...",
                 ".AAAAAAOOOAOOOOOOOOOOOOAAAAAAA...",
                 ".AAAAAAAOOOOOOOOOOOOOOOAAAAAAA...",
