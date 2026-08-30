@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T19:27:20.788Z",
+  "updatedAt": "2026-08-30T22:15:38.685Z",
   "theatre": {
     "id": 7408,
     "name": "Cineplex Cinemas Vaughan"
@@ -53,11 +53,11 @@
               "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=539559&a=0000000001&l=7408&m=the-odyssey&ss=False",
               "areaCode": "0000000001",
               "seats": [
-                "...AOOAAOO?OOOOOOOOOOAAAA....",
+                "...AAAAAOO?OOOOOOAOOOOOOA....",
                 "..OOOOOOOOOOOOOOOOOOOOOOOO...",
                 ".OOOOOOOOOOOOO?OOOOOOOOOOOO..",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                ".AAAAOOOOOOOOOOOOOOOOAAAA....",
+                ".OOOOOOOOOOOOOOOOOOOOOAAO....",
                 ".............................",
                 ".............................",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -77,7 +77,7 @@
                 "..AAAAAOOOOAOOOOOAOAAAAAAA...",
                 ".OOOOOOOOOOOOO?OOOOOOOOOOOO..",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
-                ".AAAAOOOOOOOOOOOOOOOOAAAA....",
+                ".AAAAOOOOOOOOOOOOOOOOOAAO....",
                 ".............................",
                 ".............................",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -106,7 +106,7 @@
               "areaCode": "0000000001",
               "seats": [
                 "...AAAAAAA?OOOOAAAAAAAAAA....",
-                "..AAAAAAOAOOOOOAAAAAAAAAAA...",
+                "..AAAAAAAAOOOOOOOOAAAAAAAA...",
                 ".AOOOOOOOOOOOO?OOOOOOOOOOOO..",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                 ".AAAAOOOOOOOOOOOOOOOOAAAA....",
@@ -218,7 +218,7 @@
               "areaCode": "0000000001",
               "seats": [
                 "...AAAAAAA?AAAAAAAAAAAAAA....",
-                "..AAAAAOOOOOOOAAOOOOAAAAAA...",
+                "..AAAAAOOOOOOOOOOOOOAAAAAA...",
                 ".OOOOOOOOOOOOO?OOOOOOOOOOOA..",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                 ".AAAAOOOOOOOOOOOOOOOOOAAA....",
@@ -258,7 +258,7 @@
               "areaCode": "0000000001",
               "seats": [
                 "...AAAAAAA?AAOOAAAAAAAAAA....",
-                "..AAAAAAAAOOOOOOOOOAAAAAAA...",
+                "..AAAAAAOOOOOOOOOOOAAAAAAA...",
                 ".OOOOOOOOOOOOO?OOOOOOOOOOOO..",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
                 ".AAAAOOOOOOOOOOOOOOOOAAAA....",
@@ -421,8 +421,8 @@
               "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=539571&a=0000000001&l=7408&m=the-odyssey&ss=False",
               "areaCode": "0000000001",
               "seats": [
-                "...AAAAAAA?OOAAAAAAAAAAAA....",
-                "..AAAAAOOOOOOOOOOOOOOOAAAA...",
+                "...AAAAAAA?OOOOAAAAAAAAAA....",
+                "..OOOAAOOOOOOOOOOOOOOOAAAA...",
                 ".OOOOOOOOOOOOO?OOOOOOOOOOOO..",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                 ".AAAAOOOOOOOOOOOOOOOOOAAA....",
@@ -442,7 +442,7 @@
               "areaCode": "0000000001",
               "seats": [
                 "...AAAAAAA?AAAAAAAAAAAAAA....",
-                "..AAAAAAAAAAAOOAAAAAAAAAAA...",
+                "..AAAAAAAAOOOOOAAAAAAAAAAA...",
                 ".AAOOOOOOOOOOO?OOOOOOOOOOAA..",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                 ".AAAAOOOOOOOOOOOOOOOOAAAA....",
@@ -513,7 +513,7 @@
               "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=539578&a=0000000001&l=7408&m=the-odyssey&ss=False",
               "areaCode": "0000000001",
               "seats": [
-                "...AAAAAAA?AAAAAAAAAAAAAA....",
+                "...AAAAAAA?AAAOOOOAAAAAAA....",
                 "..AOOOOOOOOOOOOOAAOOOOOOOO...",
                 ".AOOOOOOOOOOOO?OOOOOOOOOOOO..",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -934,7 +934,7 @@
               "areaCode": "0000000001",
               "seats": [
                 "...AAAAAAA?AAAAAAAAAAAAAA....",
-                "..AAAAAAOOAAAOOAAAAAAAAAAA...",
+                "..AAAAAAAAAAAOOAAAAAAAAAAA...",
                 ".AAOOOOOOOOOOO?OOOOOOOOOOAA..",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                 ".AAAAOOOOOOOOOOOOOOOOAAAA....",
@@ -1139,7 +1139,7 @@
               "seats": [
                 "...AAAAAAA?AAAAAAAAAAAAAA....",
                 "..AAAAAAAAAAOOAAAAAAAAAAAA...",
-                ".AOOOOOOOOOOOO?OOOOOOOOAAAA..",
+                ".AOOOOOOOOOOOO?OOOOOOOAAAAA..",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                 ".AAAAOOOOOOOOOOOOOOOOOAAA....",
                 ".............................",
@@ -1178,7 +1178,7 @@
               "areaCode": "0000000001",
               "seats": [
                 "...AAAAAAA?AAAAAAAAAAAAAA....",
-                "..AAAAAAAAOOOOOOAAAAAAAAAA...",
+                "..AAAAAAAAOOOOOOOOAAAAAAAA...",
                 ".AAAOOOOOOOOOO?OOOOOOOOOAOO..",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                 ".AAAAOOOOOOOOOOOOOOOOAAAA....",
@@ -1455,7 +1455,7 @@
               "seats": [
                 "...AAAAAAA?AAAAAAAAAAAAAA....",
                 "..AAAAAAAAAAAAAAAAAAAAAAAA...",
-                ".AAAAOOOOOOOOO?OOOOOOAAAAAA..",
+                ".AAAAOOOOOOOOO?OOOOOOOOAAAA..",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                 ".AAAAOOOOOOOOOOOOOOOOAAAA....",
                 ".............................",
@@ -1618,7 +1618,7 @@
               "areaCode": "0000000001",
               "seats": [
                 "...AAAAAAA?AAAAAAAAAAAAAA....",
-                "..OOAAAOOOOOOOOOOOOAAAAAAA...",
+                "..OOOAAOOOOOOOOOOOOAOOOOOO...",
                 ".OOOOOOOOOOOOO?OOOOOOOOOOOA..",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                 ".OOAOOOOOOOOOOOOOOOOOOOOO....",
@@ -3693,7 +3693,7 @@
                 "AAAOOOOOOOOOOOOOOOOOOOOOAAAA.",
                 "AAOOOOOOOOOOOOOOOOOOOOOOOAAA.",
                 "AAAAOOOOOOOOOOOOOOOOOOOOOAAA.",
-                "OOOOOOOOOOOOOOOOOOOOOOOAAAA.."
+                "OOOOOOOOOOOOOOOOOOOOOOOAAOO.."
               ]
             }
           ]
