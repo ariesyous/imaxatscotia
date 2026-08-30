@@ -9,8 +9,12 @@ seatPopover.className = "seat-popover";
 seatPopover.hidden = true;
 document.body.appendChild(seatPopover);
 
+const supportsHover = window.matchMedia("(hover: hover)").matches;
+let activeSeatChip = null;
+
 function hideSeatPopover() {
   seatPopover.hidden = true;
+  activeSeatChip = null;
 }
 
 function renderSeatPopover(session, chipEl) {
@@ -117,16 +121,27 @@ function renderMovie(movie) {
     }
     if (session.seats && auditoriums[session.areaCode]) {
       chip.classList.add("has-seats");
-      chip.addEventListener("mouseenter", () => renderSeatPopover(session, chip));
-      chip.addEventListener("focus", () => renderSeatPopover(session, chip));
-      chip.addEventListener("mouseleave", hideSeatPopover);
-      chip.addEventListener("blur", hideSeatPopover);
-      chip.addEventListener("click", (e) => {
-        if (seatPopover.hidden) {
-          e.preventDefault();
-          renderSeatPopover(session, chip);
-        }
-      });
+      if (supportsHover) {
+        chip.addEventListener("mouseenter", () => renderSeatPopover(session, chip));
+        chip.addEventListener("mouseleave", hideSeatPopover);
+        chip.addEventListener("focus", () => renderSeatPopover(session, chip));
+        chip.addEventListener("blur", hideSeatPopover);
+      } else {
+        // Touch: first tap previews the seat map, a second tap on the same
+        // chip follows the ticket link. mouseenter isn't used here since
+        // touch browsers fire a synthetic one right before "click", which
+        // would otherwise make the popover look "already open" and let the
+        // very first tap fall through to the ticket page.
+        chip.addEventListener("click", (e) => {
+          if (activeSeatChip !== chip) {
+            e.preventDefault();
+            renderSeatPopover(session, chip);
+            activeSeatChip = chip;
+          } else {
+            activeSeatChip = null;
+          }
+        });
+      }
     }
     sessions.appendChild(chip);
   }
