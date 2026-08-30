@@ -1,8 +1,28 @@
 {
-  "updatedAt": "2026-08-30T04:57:09.027Z",
+  "updatedAt": "2026-08-30T05:34:45.835Z",
   "theatre": {
     "id": 7402,
     "name": "Scotiabank Theatre Toronto"
+  },
+  "auditoriums": {
+    "0000000001": {
+      "totalRows": 12,
+      "totalColumns": 40,
+      "rowLabels": [
+        "A",
+        "B",
+        null,
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "J",
+        "K",
+        "L"
+      ]
+    }
   },
   "days": [
     {
@@ -16,22 +36,82 @@
             {
               "time": "11:00",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454674&a=0000000001&l=7402&m=the-odyssey&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454674&a=0000000001&l=7402&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAOAAOOOOOOOOOOOOOOOOOOOOOOOOAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAA.",
+                "AAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAA.",
+                "AAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAA.",
+                "AAAAAOOOOOOOOOAOOOOOOOOOOOOOOOOOOOAAAAA.",
+                "AAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAOO."
+              ]
             },
             {
               "time": "14:50",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454692&a=0000000001&l=7402&m=the-odyssey&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454692&a=0000000001&l=7402&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAOOAAAAAAAAAAOAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOOOOOOAAAAAAAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAA.",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAA.",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAA.",
+                "AOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAOO.",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
             },
             {
               "time": "18:40",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454710&a=0000000001&l=7402&m=the-odyssey&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454710&a=0000000001&l=7402&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAOOOAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOOOOAAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOOOOOOOOOOOOOAAAAAAAA.",
+                "AAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAA.",
+                "AOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAA.",
+                "OAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
             },
             {
               "time": "22:30",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454729&a=0000000001&l=7402&m=the-odyssey&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454729&a=0000000001&l=7402&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOAOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAOOOOOOOOOOOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOOOOOOAAAAAAAAAAAAAA."
+              ]
             }
           ]
         }
@@ -48,22 +128,82 @@
             {
               "time": "11:00",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454732&a=0000000001&l=7402&m=the-odyssey&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454732&a=0000000001&l=7402&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOAOOAAAAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "14:50",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454749&a=0000000001&l=7402&m=the-odyssey&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454749&a=0000000001&l=7402&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAOOOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOAAAAAAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "18:40",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454766&a=0000000001&l=7402&m=the-odyssey&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454766&a=0000000001&l=7402&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAOOAOOOOOOOOOOOOOOAAAAAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOOOOOOOOOOOOOAAAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAAA.",
+                "OAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAA.",
+                "AAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAA.",
+                "AAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAA."
+              ]
             },
             {
               "time": "22:30",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454784&a=0000000001&l=7402&m=the-odyssey&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454784&a=0000000001&l=7402&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAOOAAAOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOOOOAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOAAAAAAAAAAAAAAAAAAAA."
+              ]
             }
           ]
         }
@@ -80,22 +220,82 @@
             {
               "time": "11:00",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454787&a=0000000001&l=7402&m=the-odyssey&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454787&a=0000000001&l=7402&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAOOOAAAAOOOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOAAOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAOOOOOOOOOAAAAAAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "14:50",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454804&a=0000000001&l=7402&m=the-odyssey&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454804&a=0000000001&l=7402&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOOAAAAAAAAAAAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAAA.",
+                "AAAAAOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAAOOOOOOOOOOOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOOOOOOAAAAAAAAAA."
+              ]
             },
             {
               "time": "18:40",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454821&a=0000000001&l=7402&m=the-odyssey&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454821&a=0000000001&l=7402&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOAOOOOOOOOOOOOOOOOOAAAAAAA.",
+                "AAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAA.",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOA."
+              ]
             },
             {
               "time": "22:30",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454839&a=0000000001&l=7402&m=the-odyssey&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454839&a=0000000001&l=7402&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOOOOOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOAAAAAAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOAOOAAAAAAAAAAAAAA."
+              ]
             }
           ]
         }
@@ -112,22 +312,82 @@
             {
               "time": "11:00",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454844&a=0000000001&l=7402&m=the-odyssey&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454844&a=0000000001&l=7402&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAOOOAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAOAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAOOOAAOOOOOOAAAAOOAAAAAAAAAAAAA.",
+                "AAAAAAAOOAAAAAAAAOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAOAAAAAOAAOAAAAAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "14:50",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454861&a=0000000001&l=7402&m=the-odyssey&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454861&a=0000000001&l=7402&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOAOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAOOOOOOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAOOOOOOOAAOAAOOAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "18:40",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454877&a=0000000001&l=7402&m=the-odyssey&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454877&a=0000000001&l=7402&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOAOOAAAAAAAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAAAA.",
+                "AAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAA.",
+                "AOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAA.",
+                "AAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAA.",
+                "AAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAA.",
+                "AAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAA."
+              ]
             },
             {
               "time": "22:30",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454894&a=0000000001&l=7402&m=the-odyssey&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454894&a=0000000001&l=7402&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOAAAAAAAAAAAAAAAAAAA."
+              ]
             }
           ]
         }
@@ -144,17 +404,62 @@
             {
               "time": "14:50",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454913&a=0000000001&l=7402&m=the-odyssey&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454913&a=0000000001&l=7402&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAOAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOAAOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAOOOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOOAAOOAAAAAAAAAAA."
+              ]
             },
             {
               "time": "18:40",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454929&a=0000000001&l=7402&m=the-odyssey&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454929&a=0000000001&l=7402&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAAAOOOOOOOOOOOOOOOOOOOOAAAAAAAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAOO.",
+                "AAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAA.",
+                "AAAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAA.",
+                "OAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAOO."
+              ]
             },
             {
               "time": "22:30",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454946&a=0000000001&l=7402&m=the-odyssey&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454946&a=0000000001&l=7402&m=the-odyssey&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOAOOOOOOAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOAAAAAAAAAAAAAAAAA."
+              ]
             }
           ]
         }
@@ -171,7 +476,22 @@
             {
               "time": "18:00",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454095&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454095&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAOOOOOAAAAAAAAAAAA......",
+                "....OOOOOOOOOOOOOOOOOOOOOOOOAAAAAAO.....",
+                "........................................",
+                "OOOAA..AOOOOOOOOA.OOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
             }
           ]
         }
@@ -188,17 +508,62 @@
             {
               "time": "15:55",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454096&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454096&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAOOOOOOAA.AAOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAA.",
+                "AAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAA.",
+                "AAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAO.",
+                "AOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAA.",
+                "AOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
             },
             {
               "time": "19:25",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454097&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454097&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAOOOOOOAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAOOOOOOAA.AOOOOOOOOOOOOOOOOAAAA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
             },
             {
               "time": "22:45",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454098&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454098&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAOOAA.AAOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOOOOOAAAAAAAA.",
+                "AAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAA.",
+                "AAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
             }
           ]
         }
@@ -215,22 +580,82 @@
             {
               "time": "12:35",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454102&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454102&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOOOOOOOAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAA.",
+                "AAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAA.",
+                "OOOOOOOOOOOOOOOOAAOOAAOOOOOOOOOOOOOOOAA.",
+                "AAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAA.",
+                "AAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAA.",
+                "AOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAO."
+              ]
             },
             {
               "time": "15:55",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454101&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454101&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAAAA.",
+                "AAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAA.",
+                "AAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
             },
             {
               "time": "19:25",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454100&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454100&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAOOOOOOAA.AAOOOOOOOOOAAAAAAAAAA.",
+                "AOOOOOOOOAOOOOOOOOOOOOOOOOOOOOOOOOAAAAA.",
+                "OAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
             },
             {
               "time": "22:45",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454099&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454099&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAOOOOOAA.AAOOOOOOOAAAAAAAAAAAA.",
+                "AAAAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                "AAAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAA.",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAA.",
+                "AOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
             }
           ]
         }
@@ -247,22 +672,82 @@
             {
               "time": "12:35",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454103&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454103&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAOOAA.OOOOOAAAAAAAAAAAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAAAA.",
+                "OAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAA.",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                "AOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
             },
             {
               "time": "15:55",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454104&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454104&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAOOOOOOAA.OOOOOAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAA.",
+                "AAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
             },
             {
               "time": "19:25",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454105&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454105&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAOOOOAA.AAOOOOOOOOOOOOAAAAAAA.",
+                "AAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAAA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOA."
+              ]
             },
             {
               "time": "22:45",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454106&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454106&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOAAAAOOAAAAAAAAAAA.",
+                "AAAAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAA.",
+                "AAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAA.",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                "AAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAA.",
+                "AAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAA.",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAA.",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAA."
+              ]
             }
           ]
         }
@@ -279,22 +764,82 @@
             {
               "time": "12:35",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454108&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454108&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAOOOAAAAAAAAAAAAAAAA.",
+                "AAAAAAAOOOOOOOOOOOOOOOOOOOOOOAAAAAAAAAA.",
+                "OOOOOOOAOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAA.",
+                "AAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAA.",
+                "AAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
             },
             {
               "time": "15:55",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454107&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454107&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAOOAAAAAA.AAOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAOOOOAOOOOOOOOOOOOOOOOAAAAAAAAA.",
+                "AAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAA.",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAA."
+              ]
             },
             {
               "time": "19:25",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454110&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454110&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAOOOOOOOOOOOOOOOOOOOOOOOOAAOOAAAAAA.",
+                "AAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAA.",
+                "OAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOAAOOOAAA.",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+              ]
             },
             {
               "time": "22:45",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454109&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454109&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAOOOOOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOOOOOOOOOOOOOAAAAAAAA.",
+                "AAAAAAAOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAA.",
+                "AAAAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAA.",
+                "AAAAAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAA.",
+                "OOOOOAAAOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAA.",
+                "AAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAA."
+              ]
             }
           ]
         }
@@ -311,22 +856,82 @@
             {
               "time": "12:35",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454112&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454112&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOOOOOOOOOOOOOAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOOOOOOOOOOOOAAAAAAAAA.",
+                "AAAAAAAOOOOOOOOOOOOOOOOOOOOOOAAAAAAAAAA."
+              ]
             },
             {
               "time": "15:55",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454111&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454111&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOOOOOOOOOOOOOAAAAAAAA.",
+                "AAAAAOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAA.",
+                "AAAAAOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAAAA.",
+                "AAAAAOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAAAO."
+              ]
             },
             {
               "time": "19:25",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454114&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454114&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOOOOOOAAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAA.",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAA.",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAA.",
+                "AOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAA.",
+                "AOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOA."
+              ]
             },
             {
               "time": "22:45",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454113&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454113&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOAAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOOOOOAAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOOOOOOOOOAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOAAAAAAAAAAAA."
+              ]
             }
           ]
         }
@@ -343,22 +948,82 @@
             {
               "time": "12:35",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454117&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454117&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAOOOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOOOOAAAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOOOOOOOOOAAAAAAAAA.",
+                "AAAAAAAOOOOOOOOOOOOOOOOOOOOOOOAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOOOOOOOOOAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "15:55",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454118&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454118&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAOOOOOOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOOOOOOOOOOOOAAAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOOOOOOOOOOOOAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAAA.",
+                "AAAAAAAOOOOOOOOOOOOOOOOOOOOOOOAAAAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAAAA."
+              ]
             },
             {
               "time": "19:25",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454115&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454115&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAA.",
+                "AAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAA.",
+                "AAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAA.",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "AAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "AAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAA."
+              ]
             },
             {
               "time": "22:45",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454116&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454116&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOAOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOOOOOOOOOOOAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOOOOAAAAAAAAA."
+              ]
             }
           ]
         }
@@ -375,22 +1040,82 @@
             {
               "time": "12:35",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454121&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454121&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAOAAAAAAOOOOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOOOOAAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "15:55",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454122&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454122&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOAAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOOOOOOOOOOOAAAAAAAAAA."
+              ]
             },
             {
               "time": "19:25",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454119&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454119&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAOAAAAAOOOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOOOOOOOOOAAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAA.",
+                "AAAAAAAOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAA.",
+                "AAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAA."
+              ]
             },
             {
               "time": "22:45",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454120&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454120&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAOOOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAOOOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOOOAAAAAAAAAAAAAAA."
+              ]
             }
           ]
         }
@@ -407,22 +1132,82 @@
             {
               "time": "12:35",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454124&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454124&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOAOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOAAAAAAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "15:55",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454123&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454123&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAOOOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAOAAOOOOAAOOOOOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAOOOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAOOOOOOOOOOOOAAAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "19:25",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454126&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454126&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOAAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOOOOOOOOAAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "22:45",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454125&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454125&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOOOAAAAAAAAAAAAAAAAA."
+              ]
             }
           ]
         }
@@ -439,22 +1224,82 @@
             {
               "time": "12:35",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454534&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454534&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOOOOOOOAAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "15:55",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454533&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454533&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAOOOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOOOOAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAOOOOOOOOOOOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOAAAAAAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "19:25",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454532&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454532&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAOOOOOOOOOOOOOOAAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOAAAAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "22:45",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454531&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454531&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOAOOOOOOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOOOOAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOOAAAAAAAAAAAAAAA."
+              ]
             }
           ]
         }
@@ -471,22 +1316,82 @@
             {
               "time": "12:35",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454535&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454535&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAOOOAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOOOOAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOAAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOOAOOAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOAAAAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "15:55",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454536&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454536&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOOOOOOOOOOOOOAAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOOOOOOOOOOOAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOOOOOOAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOOOOAAAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOOOOAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "19:25",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454537&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454537&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAAAAAAOOAOOOOOOOOOOOOOOOOOOOAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOOOOOOOOOAAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOOOOOOOOOOAAAAAA."
+              ]
             },
             {
               "time": "22:45",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454538&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454538&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOOAAAAAAAAAAAAAAAAAA."
+              ]
             }
           ]
         }
@@ -503,22 +1408,82 @@
             {
               "time": "12:35",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454542&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454542&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOOOOAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOOOOOOOOOAAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAAAAAOOAOOOOOOOOOOOOOOOOOAAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOOOOAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "15:55",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454541&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454541&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOOOOAAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOOOOOOAAAAAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOOOOOOOOOAAAAAAAAAAAA.",
+                "AAAAAAAOOOOOOOOOOOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOOOOOOOOOOAAAAAAAAAAA."
+              ]
             },
             {
               "time": "19:25",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454540&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454540&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAAAAAOAOOOOOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOOOOOOOAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOOOOOAAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOOOAAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "22:45",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454539&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454539&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAOAAAAAAAAAAAAAAAAAAA."
+              ]
             }
           ]
         }
@@ -535,22 +1500,82 @@
             {
               "time": "12:35",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454546&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454546&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAAOAAAAAAAAOOOOOOOOAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOOOOAAAAAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "15:55",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454545&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454545&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAOOOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOAAAAAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "19:25",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454544&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454544&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAOOOOOOOOOOOOOOAAAAAAAAAAAAAOO.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAOOOOOOOOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOOAAAAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "22:45",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454543&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454543&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA."
+              ]
             }
           ]
         }
@@ -567,22 +1592,82 @@
             {
               "time": "12:35",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454550&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454550&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAOOOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAOOOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOOAAAAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "15:55",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454549&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454549&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOOOOOOAAAAAAAAAAAA.",
+                "AAAAAAAOOOOOOOOOOOOOOOOOOOOOOAAAAAAAAAA.",
+                "AAAAAAAAAAAAAOOOOOOOOOOOOOOAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOOOAAAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "19:25",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454548&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454548&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAOOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOOOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOOOOOOOOOOOAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOOOOOOOOOOOAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOOOOOOOOOOAAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOOOOOOOOOOAAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOOOOOOOOOOOOAAAAAA."
+              ]
             },
             {
               "time": "22:45",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454547&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454547&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOOAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOOAAAAAAAAAAAAAAAAAA."
+              ]
             }
           ]
         }
@@ -599,22 +1684,82 @@
             {
               "time": "12:35",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454551&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454551&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOOOOAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOOAAOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOAAOOOOOOAAAAAAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "15:55",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454552&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454552&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAOAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOOOOOOOAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOOOAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOOOAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOOOAAAAAAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "19:25",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454553&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454553&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOOOOOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOOOOAAAAAAAAAAAA.",
+                "AAAAAAAAAOOOOOOOOOOOOOOOOOOAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAOOOOOOOOOOOOOOOOOOOOOAAAAAA.",
+                "AAAAAAAAAAAOOOOOOOOOOOOOOAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAOOOOOOOOOOOOOAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOOOOOOAAAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "22:45",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454554&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454554&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAOAAAAAAAAAAAAAAAAAAA."
+              ]
             }
           ]
         }
@@ -631,22 +1776,82 @@
             {
               "time": "12:35",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454555&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454555&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAOOOOOOOOOAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOOOAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAOAAAAAAAAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "15:55",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454556&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454556&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAOOAAAAAAAAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "19:25",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454557&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454557&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAOOOOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAOOOOOAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA."
+              ]
             },
             {
               "time": "22:45",
               "format": "IMAX Laser Projection",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454558&a=0000000001&l=7402&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=454558&a=0000000001&l=7402&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                ".....AAAAAAAAAAAAAAAAAAAAAAAAAAAAA......",
+                "....AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....",
+                "........................................",
+                "AAAAA..AAAAAAAAAA.AAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAOOOAAAAAAAAAAAAAAAAAAA.",
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA."
+              ]
             }
           ]
         }

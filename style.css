@@ -5,6 +5,8 @@
   --text: #e8e8ea;
   --muted: #9a9ea6;
   --accent: #ff5b5b;
+  --available: #3ecf8e;
+  --occupied: #3a3f4a;
 }
 
 *,
@@ -120,6 +122,70 @@ h1 {
 a.session:hover {
   background: var(--accent);
   color: #fff;
+}
+
+.session.has-seats {
+  cursor: pointer;
+}
+
+.seat-popover {
+  position: absolute;
+  z-index: 20;
+  background: var(--card-bg);
+  border: 1px solid #2a2e37;
+  border-radius: 12px;
+  padding: 0.75rem;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+  max-width: min(90vw, 320px);
+}
+
+.seat-grid {
+  display: grid;
+  gap: 2px;
+}
+
+.seat {
+  aspect-ratio: 1;
+  border-radius: 1px;
+}
+
+.seat-available {
+  background: var(--available);
+}
+
+.seat-occupied {
+  background: var(--occupied);
+}
+
+.seat-none {
+  background: transparent;
+}
+
+.seat-legend {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 0.5rem;
+  font-size: 0.72rem;
+  color: var(--muted);
+}
+
+.seat-legend span {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.seat-swatch {
+  display: inline-block;
+  width: 0.6rem;
+  height: 0.6rem;
+  border-radius: 1px;
+}
+
+.seat-caption {
+  margin: 0.4rem 0 0;
+  font-size: 0.7rem;
+  color: var(--muted);
 }
 
 .loading,

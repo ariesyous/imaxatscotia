@@ -55,6 +55,15 @@ function extractImaxMovies(theatreEntry) {
           time,
           format,
           ticketUrl: session.deeplinkUrl || session.ticketingUrl || null,
+          vistaSessionId: session.vistaSessionId ?? null,
+          areaCode: session.areaCode ?? null,
+          seatDataEligible: Boolean(
+            session.isReservedSeating &&
+              session.isShowtimeEnabledOnline &&
+              !session.isSoldOut &&
+              session.vistaSessionId &&
+              session.areaCode
+          ),
         });
       }
     }
@@ -68,6 +77,108 @@ function extractImaxMovies(theatreEntry) {
     });
   }
   return movies;
+}
+
+// Compacts a seat-availability map ({ "section_row_col": "Available" | "Occupied" })
+// into one string per row (one char per column, "." where no seat exists at
+// that column) using the row/column layout from a seat-layout response.
+function compactSeats(layout, seatAvailabilities) {
+  const rows = [];
+  for (const row of layout.standardSeats?.rows ?? []) {
+    let line = "";
+    for (let col = 1; col <= layout.totalColumns; col++) {
+      const seat = row.seats.find((s) => s.column === col);
+      if (!seat) {
+        line += ".";
+        continue;
+      }
+      const status = seatAvailabilities[seat.id];
+      line += status === "Available" ? "A" : status === "Occupied" ? "O" : "?";
+    }
+    rows.push(line);
+  }
+  return rows;
+}
+
+function compactLayout(layout) {
+  return {
+    totalRows: layout.totalRows,
+    totalColumns: layout.totalColumns,
+    rowLabels: (layout.standardSeats?.rows ?? []).map((r) => r.label),
+  };
+}
+
+async function fetchSeatLayout(theatreId, showtimeId) {
+  const url = `https://apis.cineplex.com/prod/ticketing/api/v1/theatre/${theatreId}/showtime/${showtimeId}/seat-layout`;
+  const res = await fetch(url, {
+    headers: { "Ocp-Apim-Subscription-Key": SUBSCRIPTION_KEY },
+  });
+  if (!res.ok) throw new Error(`HTTP ${res.status} for seat-layout ${showtimeId}`);
+  return res.json();
+}
+
+async function fetchSeatAvailability(theatreId, showtimeId) {
+  const url = `https://apis.cineplex.com/prod/ticketing/api/v1/theatre/${theatreId}/showtime/${showtimeId}/seat-availability`;
+  const res = await fetch(url, {
+    headers: { "Ocp-Apim-Subscription-Key": SUBSCRIPTION_KEY },
+  });
+  if (!res.ok) throw new Error(`HTTP ${res.status} for seat-availability ${showtimeId}`);
+  return res.json();
+}
+
+// Mutates `days` in place: attaches a compact `seats` grid to each eligible
+// session and populates `auditoriums` (keyed by areaCode, layout fetched
+// once per auditorium and reused across sessions). Failures are per-session
+// and never abort the run — a session just keeps its time/format/ticketUrl
+// without seat data.
+async function attachSeatData(days) {
+  const auditoriums = {};
+  const layoutPromises = new Map(); // areaCode -> Promise<raw layout>
+
+  const eligibleSessions = [];
+  for (const day of days) {
+    for (const movie of day.movies) {
+      for (const session of movie.sessions) {
+        if (session.seatDataEligible) eligibleSessions.push(session);
+      }
+    }
+  }
+
+  async function getLayout(areaCode, vistaSessionId) {
+    if (!layoutPromises.has(areaCode)) {
+      layoutPromises.set(areaCode, fetchSeatLayout(THEATRE_ID, vistaSessionId));
+    }
+    return layoutPromises.get(areaCode);
+  }
+
+  await mapWithConcurrency(eligibleSessions, CONCURRENCY, async (session) => {
+    try {
+      const [layout, availability] = await Promise.all([
+        getLayout(session.areaCode, session.vistaSessionId),
+        fetchSeatAvailability(THEATRE_ID, session.vistaSessionId),
+      ]);
+      if (!auditoriums[session.areaCode]) {
+        auditoriums[session.areaCode] = compactLayout(layout);
+      }
+      session.seats = compactSeats(layout, availability.seatAvailabilities ?? {});
+    } catch (err) {
+      console.warn(
+        `Skipping seat data for session ${session.vistaSessionId}: ${err.message}`
+      );
+    }
+  });
+
+  for (const day of days) {
+    for (const movie of day.movies) {
+      for (const session of movie.sessions) {
+        delete session.seatDataEligible;
+        delete session.vistaSessionId;
+        if (!session.seats) delete session.areaCode;
+      }
+    }
+  }
+
+  return auditoriums;
 }
 
 async function processDate(dateStr) {
@@ -116,9 +227,12 @@ async function main() {
     .filter((r) => r.movies.length > 0)
     .map((r) => ({ date: r.dateStr, movies: r.movies }));
 
+  const auditoriums = await attachSeatData(days);
+
   const output = {
     updatedAt: new Date().toISOString(),
     theatre: { id: THEATRE_ID, name: THEATRE_NAME },
+    auditoriums,
     days,
   };
 
