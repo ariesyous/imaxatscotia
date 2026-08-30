@@ -2,7 +2,13 @@ name: Scrape IMAX showtimes
 
 on:
   schedule:
-    - cron: "30 15 * * *" # ~11:30am ET daily (UTC-4, i.e. EDT; drifts to ~10:30am during EST)
+    # Times below are UTC-4 (EDT); each drifts back ~1hr during EST (UTC-5).
+    - cron: "0 13 * * *" # ~9am ET
+    - cron: "0 16 * * *" # ~12pm ET
+    - cron: "0 19 * * *" # ~3pm ET
+    - cron: "0 22 * * *" # ~6pm ET
+    - cron: "0 1 * * *" # ~9pm ET (previous calendar day in ET)
+    - cron: "0 4 * * *" # ~12am ET
   workflow_dispatch: {}
 
 permissions:
