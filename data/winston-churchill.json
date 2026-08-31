@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T04:17:03.563Z",
+  "updatedAt": "2026-08-31T13:01:41.244Z",
   "theatre": {
     "id": 7123,
     "name": "Cineplex Cinemas Winston Churchill & VIP"
@@ -127,11 +127,11 @@
                 ".....AAAAAAAAAAAAAAAAAAAAAA......",
                 ".....AAAAAAAAAAAAAAAAAAAAAA......",
                 ".....AAAAAAAAAOOAAAAAAAAAAA......",
-                ".AAAAAAAAAAAAAAOOAAAAAAAAAAAAA...",
+                ".AAAAAAAAAAAAAOOOAAAAAAAAAAAAA...",
                 ".AAAAAAAAAOOOOOOOOOOAAAAAAAAAA...",
                 ".AAAAAAAAAAOOOOOOOOAAAAAAAAAAA...",
                 ".AAAAAAAAAAOOOOOOOOOAAAAAAAAAA...",
-                ".AAAAAAAAAOOAAAOOOOOOOAAAAAAAA...",
+                ".AAAAAAAAAOOAOOOOOOOOOAAAAAAAA...",
                 ".AAAAAAAOOAAAOOOOOAAOOAAAAAAAA...",
                 ".AAAAAAAAAOO........OOAAAAAAAA...",
                 ".AAAAA??AOO.........A............"
@@ -219,10 +219,10 @@
                 ".....AAAAAAAAAAAAAAAAAAAAAA......",
                 ".AAAAAAAAAAAAAOOOOOAAAAAAAAAAA...",
                 ".AAAAAAAAAOOOOOOOOOOOOAAAAAAAA...",
-                ".AAAAAAOAAOOOOOOOOOOOOAAAAAAAA...",
+                ".AAAAAAOOOOOOOOOOOOOOOAAAAAAAA...",
                 ".AAAOOOOOOOOOOOOOOOOOOOAAAAAAA...",
                 ".AAAAAAOOOAOOOOOOOOOOOOAAAAAAA...",
-                ".AAAAAAAOOOOOOOOOOOOOOOAAAAAAA...",
+                ".AAAAOOOOOOOOOOOOOOOOOOAAAAAAA...",
                 ".AAAAOOOOOOO........OOAAAAAAAA...",
                 ".AAAAO??OOO.........A............"
               ]
@@ -433,7 +433,7 @@
                 ".AAAAAAAAAAAAAAOOAAAAAAAAAAAAA...",
                 ".AAAAAAAAAAOOOOOOAAAAAAAAAAAAA...",
                 ".AAAAAAAAAAAAAOOOOAAAAAAAAAAAA...",
-                ".AAAAAAAAAAAAOOOOOOAAAAAAAAAAA...",
+                ".AAAAAAAAAAAAAOOOOOAAAAAAAAAAA...",
                 ".AAAAAAAAAAOOOOOOAAAAAAAAAAAAA...",
                 ".AAAAAAAAAAAAOOOOOAAAAAAAAAAAA...",
                 ".AAAAAAAAAAA........AAAAAAAAAA...",
@@ -546,11 +546,11 @@
                 ".....AAAAAAAAAAOOAAAAAAAAAA......",
                 ".OOAAAAAAAAAAOOOOOOAAAAAAAAAOO...",
                 ".AAAAAAAAAAAAOOOOOAAAAAAAAOOOO...",
-                ".OOOOOOAAAAAAOOOOOAAAAAAAAAAAA...",
+                ".AAAAAAAAAAAAOOOOOAAAAAAAAAAAA...",
                 ".AAAAAAAAAAOOOOAOOOOAAAAAAAAAA...",
                 ".AAAAAAAAAAAOOOOOOOOAAAAAAAAAA...",
-                ".AAAAAAAAAOOOOOOOOOAAAAAAAAAAA...",
-                ".AAAAAAAAAAO........OOAAAAAAAA...",
+                ".AAAAAAAAAOOOOOOOOOAAAAAAAAAOO...",
+                ".AAAAAAAAAAO........OOOOAAAAOO...",
                 ".OOOOA??OOO.........O............"
               ]
             }
@@ -582,9 +582,9 @@
                 ".....OOOOOOOOOOOOOOOOOOOOOO......",
                 ".....OOOOOOOOOOOOOOOOOOOOOO......",
                 ".....OOOOOOOOOOOOOOOOOOOOOO......",
-                ".OOAOOOOOOOOOOOOOOOOOOOOOOOAOO...",
+                ".OOAOOOOOOOOOOOOOOOOOOOOOOOOOO...",
                 ".OOOOOOOOOOOOOOOOOOOOOOOOOOOOO...",
-                ".OOOAOOOOOOOOOOOOOOOOOOOOOOOOO...",
+                ".OOOOOOOOOOOOOOOOOOOOOOOOOOOOO...",
                 ".OOOOOOOOOOOOOOOOOOOOOOOOOOOOO...",
                 ".OOOOOOOOOOOOOOOOOOOOOOOOOOOOO...",
                 ".OOOOOOOOOOOOOOOOOOOOOOOOOOOOO...",
@@ -621,7 +621,7 @@
                 ".....AAOOOOOOOOOOOOOOOOAAAA......",
                 ".....AAOOOOOOOOOOOOOOOOOOOO......",
                 ".OOAOOOOOOOOOOOOOOOOOOOOOOOOOA...",
-                ".AAOOOOOOOOOOOOOOOOOOOOOOOOOOO...",
+                ".OOOOOOOOOOOOOOOOOOOOOOOOOOOOO...",
                 ".OOOOOOOOOOOOOOOOOOOOOOOOOOOOO...",
                 ".OOOOOOOOOOOOOOOOOOOOOOOOOOOOA...",
                 ".OOOOOOOOOOOOOOOOOOOOOOOOOOOOO...",
@@ -1333,7 +1333,7 @@
                 ".AAAAAAAAAAAAAAAAAAAAAAAAAAAAA...",
                 ".AAAAAAAAAAAAAAAAAAAAAAAAAAAAA...",
                 ".AAAAAAAAAAA........AAAAAAAAAA...",
-                ".AAAAA??AAA.........A............"
+                ".AAAAA??AAA.........O............"
               ]
             },
             {
