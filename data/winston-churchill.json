@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T13:01:41.244Z",
+  "updatedAt": "2026-08-31T16:03:41.097Z",
   "theatre": {
     "id": 7123,
     "name": "Cineplex Cinemas Winston Churchill & VIP"
@@ -69,20 +69,20 @@
                 ".AAAAAAAAAAAAAAAAAAAAAAAAAAAAA...",
                 "..AA.AAAAAAAAAAAAAAAAAAAAA.AA....",
                 ".................................",
-                ".......AAAAAAAAAAAAAAAAAAA.......",
+                ".......AAAAAAOOOAAAAAAAAAA.......",
                 ".....AAAAAAAAAAAAAAAAAAAAAA......",
                 ".....AAAAAAAAAAAAAAAAAAAAAA......",
                 ".....AAAAAAAAAAAAAAAAAAAAAA......",
                 ".....AAAAAAAAAAAAAAAAAAAAAA......",
-                ".....AAAAAAAAAAAAAAAAAAAAAA......",
-                ".AAAAAAAAAAAAAAAAAAAAAAAAAAAAA...",
+                ".....AAAAAAAAAOOOOAAAAAAAAA......",
                 ".AAAAAAAAAAAAAAOOAAAAAAAAAAAAA...",
-                ".AAAAAAAAAAAAAAOOAAAAAAAAAAAAA...",
-                ".AAAAAAAAAAAAAAOOAAAAAAAAAAAAA...",
-                ".AAAAAAAAAAAOOOAAAAAAAAAAAAAAA...",
+                ".AAAAOOAAOOOAAAOOAOOAAAAAAAAAA...",
+                ".AAAAAAAAAAAOAAOOAAOOAAAAAAAAA...",
+                ".AAAAAAAAAOOAAOOOAAOOOAAAAAAAA...",
+                ".AAAAAAAAAAAOOOOAOOAAAAAAAAAAA...",
                 ".AAAAAAAAAAAAAAOOAAAAAAAAAAAAA...",
                 ".AAAAAAAAAAA........AAAAAAAAAA...",
-                ".AAAAA??AAA.........A............"
+                ".AAAAA??AAA.........O............"
               ]
             },
             {
@@ -101,14 +101,14 @@
                 ".....AAAAAAAAAAAAAAAAAAAAAA......",
                 ".....AAAAAAAAAAAAAAAAAAAAAA......",
                 ".....AAAAAAAAAAAAAAAAAAAAAA......",
-                ".AAAAAAAAAAAAAAAAAAAAAAAAAAAAA...",
-                ".AAAAAAAAAAAAAAAAAAAAAAAAAAAAA...",
+                ".AAAAAAAAAAAAAOOAAAAAAAAAAAAAA...",
+                ".AAAAAAAAAAAAAOOAAAAAAAAAAAAAA...",
                 ".AAAAAAAAAAAAAAOOAAAAAAAAAAAAA...",
                 ".AAAAAAAAAAAAAAOOOAAAAAAAAAAAA...",
                 ".OOAAAAAAAAAAAOOOOOAAAAAAAAAAA...",
-                ".AAAAAAAAAAAAAAOOAAAAAAAAAAAAA...",
+                ".AAAAAAAOOAAAOOOOOOAAAAAAAAAAA...",
                 ".AAAAAAAAAOO........AAAAAAAAOO...",
-                ".AAAAA??AAA.........A............"
+                ".AAAAA??OOA.........A............"
               ]
             },
             {
@@ -127,12 +127,12 @@
                 ".....AAAAAAAAAAAAAAAAAAAAAA......",
                 ".....AAAAAAAAAAAAAAAAAAAAAA......",
                 ".....AAAAAAAAAOOAAAAAAAAAAA......",
-                ".AAAAAAAAAAAAAOOOAAAAAAAAAAAAA...",
+                ".AAAAAAAAAOOAAOOOAAAAAAAAAAAAA...",
                 ".AAAAAAAAAOOOOOOOOOOAAAAAAAAAA...",
-                ".AAAAAAAAAAOOOOOOOOAAAAAAAAAAA...",
+                ".AAAAAAAAAAOOOOOOOOAAOOAAAAAAA...",
                 ".AAAAAAAAAAOOOOOOOOOAAAAAAAAAA...",
                 ".AAAAAAAAAOOAOOOOOOOOOAAAAAAAA...",
-                ".AAAAAAAOOAAAOOOOOAAOOAAAAAAAA...",
+                ".AAAAAAAOOAOOOOOOOAAOOAAAAAAAA...",
                 ".AAAAAAAAAOO........OOAAAAAAAA...",
                 ".AAAAA??AOO.........A............"
               ]
@@ -198,7 +198,7 @@
                 ".AAAAAAAAAAAAOOOOOOAAAAAAAAAAA...",
                 ".AAAAAAAAAAAAAOOOOAAAAAAAAAAAA...",
                 ".AAAAAAAAAAA........AAAAAAAAAA...",
-                ".AAAAA??AAA.........A............"
+                ".AAAAA??AOO.........A............"
               ]
             },
             {
@@ -217,10 +217,10 @@
                 ".....AAAAAAAAAOOOOAAAAAAAAA......",
                 ".....AAAAAAAOOOOOAAAAAAAAAA......",
                 ".....AAAAAAAAAAAAAAAAAAAAAA......",
-                ".AAAAAAAAAAAAAOOOOOAAAAAAAAAAA...",
+                ".AAAAAAAAAAAOOOOOOOAAAAAAAAAAA...",
                 ".AAAAAAAAAOOOOOOOOOOOOAAAAAAAA...",
                 ".AAAAAAOOOOOOOOOOOOOOOAAAAAAAA...",
-                ".AAAOOOOOOOOOOOOOOOOOOOAAAAAAA...",
+                ".AAAOOOOOOOOOOOOOOOOOOOAAOOAAA...",
                 ".AAAAAAOOOAOOOOOOOOOOOOAAAAAAA...",
                 ".AAAAOOOOOOOOOOOOOOOOOOAAAAAAA...",
                 ".AAAAOOOOOOO........OOAAAAAAAA...",
@@ -287,7 +287,7 @@
                 ".AAAAAAAAAOOAAAOOAAAAAAAAAAAAA...",
                 ".AAAAAAAAAAAAAAAAAAAAAAAAAAAAA...",
                 ".AAAAAAAAAAAAAOOOAAAAAAAAAAAAA...",
-                ".AAAAAAAAAAA........AAAAAAAAAA...",
+                ".OOOAAAAAAAA........AAAAAAAAAA...",
                 ".AAAAA??AAA.........A............"
               ]
             },
@@ -431,11 +431,11 @@
                 ".....AAAAAAAAAAAAAAAAAAAAAA......",
                 ".....AAAAAAAAAAAOAAAAAAAAAA......",
                 ".AAAAAAAAAAAAAAOOAAAAAAAAAAAAA...",
-                ".AAAAAAAAAAOOOOOOAAAAAAAAAAAAA...",
-                ".AAAAAAAAAAAAAOOOOAAAAAAAAAAAA...",
+                ".AAAAAAAAAAOOOOOOAAOOAAAAAAAAA...",
+                ".AAAAAAAAAAAOOOOOOAAAAAAAAAAAA...",
                 ".AAAAAAAAAAAAAOOOOOAAAAAAAAAAA...",
                 ".AAAAAAAAAAOOOOOOAAAAAAAAAAAAA...",
-                ".AAAAAAAAAAAAOOOOOAAAAAAAAAAAA...",
+                ".AAAAAAAOOOAAOOOOOAAAAAAAAAAAA...",
                 ".AAAAAAAAAAA........AAAAAAAAAA...",
                 ".AAAAA??AAA.........A............"
               ]
@@ -469,7 +469,7 @@
                 ".....AAAAAAAOOOOOAAAAAAAAAA......",
                 ".....OAAAOOOOOOOOOOOOAAAAOO......",
                 ".OAAAAAAAAAOOOOOOOOOOAAAAAAAAO...",
-                ".OOOAAAAAAAOOOOOOOOOOOAAAAAAOO...",
+                ".OOOAAAAAOOOOOOOOOOOOOAAAAAAOO...",
                 ".OOAOOOAOOOOOOOOOOOOOOOOOOOAOO...",
                 ".AAAAAAOOOOOOOOOOOOOOOOOAAAAAA...",
                 ".OOAAAAAOOOOOOOOOOOOOOOAAAAAAO...",
@@ -700,7 +700,7 @@
                 ".AAAAAAAAAAAAOOOOOAAAAAAAAAAAA...",
                 ".AAAAAAAAOAAOOOOOOAAAAAAAAAAAA...",
                 ".AAAAAAAAAAAAAOOOOAAAAAAAAAAAA...",
-                ".AAAAAAOAAAAAAAOOOOOOAAAAAAAAA...",
+                ".AAAAAAAAAAAAAAOOOOOOAAAAAAAAA...",
                 ".AAAAAAAAAAOOOOOAAAAAAAAAAAAAA...",
                 ".AAAAAAAAAAA........AAAAAAAAAA...",
                 ".AAAAA??AOO.........O............"

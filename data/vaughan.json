@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T13:02:06.248Z",
+  "updatedAt": "2026-08-31T16:04:03.353Z",
   "theatre": {
     "id": 7408,
     "name": "Cineplex Cinemas Vaughan"
@@ -48,36 +48,16 @@
           "runtimeMinutes": 172,
           "sessions": [
             {
-              "time": "11:00",
-              "format": "IMAX 70mm",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=539557&a=0000000001&l=7408&m=the-odyssey&ss=False",
-              "areaCode": "0000000001",
-              "seats": [
-                "...AAAAAAA?OOOOAAAAAAAAAA....",
-                "..AAAAOOOOOOOOOOOOOOOAAAAA...",
-                ".OOOOOOOOOOOOO?OOOOOOOOOOOO..",
-                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                ".AAAAOOOOOOOOOOOOOOOOAAAA....",
-                ".............................",
-                ".............................",
-                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                "OOOOOOOOOOOOOOOOOOOOOOOOOOO.."
-              ]
-            },
-            {
               "time": "15:00",
               "format": "IMAX 70mm",
               "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=539563&a=0000000001&l=7408&m=the-odyssey&ss=False",
               "areaCode": "0000000001",
               "seats": [
                 "...AAAAAAA?AAAAAAAAAAAAAA....",
-                "..AAOOOOOOOOOOOOOOOOOOOAAA...",
+                "..AAOOOOOOOOOOOOOOOOOOOOOO...",
                 ".OOOOOOOOOOOOO?OOOOOOOOOOOO..",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                ".AAAAOOOOOOOOOOOOOOOOAAAA....",
+                ".AAOOOOOOOOOOOOOOOOOOAAAA....",
                 ".............................",
                 ".............................",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -148,7 +128,7 @@
                 "...AAAAAAA?OOAAAAAAAAAAAA....",
                 "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                 ".OOOOOOOOOOOOO?OOOOOOOOOOOA..",
-                "OOOOOOOOOOOOOOOOOOOOOOOAAOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                 ".AAAAOOOOOOOOOOOOOOOOAAAA....",
                 ".............................",
                 ".............................",
@@ -185,7 +165,7 @@
               "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=539567&a=0000000001&l=7408&m=the-odyssey&ss=False",
               "areaCode": "0000000001",
               "seats": [
-                "...AAOOOOO?OOOOOOOOOOOOOO....",
+                "...OOOOOOO?OOOOOOOOOOOOOO....",
                 "..OOOOOOOOOOOOOOOOOOOOOOOO...",
                 ".OOOOOOOOOOOOO?OOOOOOOOOOOO..",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -240,7 +220,7 @@
                 "...AAAAAAA?AAAAAAAAAAAAAA....",
                 "..AAAAOOOOOOOOOOOOOAAAAAAA...",
                 ".AAOOOOOOOOOOO?OOOOOOOOOOOA..",
-                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
                 ".AAAAOOOOOOOOOOOOOOOOAAOO....",
                 ".............................",
                 ".............................",
@@ -278,7 +258,7 @@
               "areaCode": "0000000001",
               "seats": [
                 "...AAAAAAA?OOOOOAAAAAAAAA....",
-                "..OOOOOOOOOOOOOOOOOOOOOAAA...",
+                "..OOOOOOOOOOOOOOOOOOOOOOAA...",
                 ".OOOOOOOOOOOOO?OOOOOOOOOOOO..",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                 ".AAAAOOOOOOOOOOOOOOOOAAAA....",
@@ -333,7 +313,7 @@
                 "..AAAAAAOOOOOOOOOOOAAAAAAA...",
                 ".AOOOOOOOOOOOO?OOOOOOOOOOOO..",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                ".AAAAOOOOOOOOOOAAAAOOAAAA....",
+                ".AAAAOOOOOOOOOOOOOOOOAAAA....",
                 ".............................",
                 ".............................",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -350,7 +330,7 @@
               "areaCode": "0000000001",
               "seats": [
                 "...AAAAAAA?AAAAAAAAAAAAAA....",
-                "..AAAAAAAAAOOOOOAAAAAAAAAA...",
+                "..AAAAAAOOAOOOOOAAAAAAAAAA...",
                 ".AAOOOOOOOOOOO?OOOOOOOOOOAA..",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
                 ".AAAOOOOOOOOOOOOOOOOOAAAA....",
@@ -391,7 +371,7 @@
               "seats": [
                 "...AAAAAAA?AAAAAAAAAAAAAA....",
                 "..AAAAAAAAOOOOOAAAAAAAAAAA...",
-                ".AAOOOOOOOOOOO?OOOOOOOOOOOO..",
+                ".OOOOOOOOOOOOO?OOOOOOOOOOOO..",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                 ".AAAAOOOOOOOOOOOOOOOOAAAA....",
                 ".............................",
@@ -422,7 +402,7 @@
               "areaCode": "0000000001",
               "seats": [
                 "...AAAAAAA?AAAAAAAAAAAAAA....",
-                "..AAAAAAOOAOOOOOAAAAAAAAAA...",
+                "..AAAAAAOOAOOOOAAAAAAAAAAA...",
                 ".OOOOOOOOOOOOO?OOOOOOOOOOOO..",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
                 ".AAAAOOOOOOOOOOOOOOOOAAAA....",
@@ -442,7 +422,7 @@
               "areaCode": "0000000001",
               "seats": [
                 "...AAAAAAA?AAAAAAAAAAAAAA....",
-                "..AAAAAAAAOOOOOOOAAAAAAAAA...",
+                "..AAAAAAOOOOOOOOOAAAAAAAAA...",
                 ".AAOOOOOOOOOOO?OOOOOOOOOOOA..",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                 ".AAAAOOOOOOOOOOOOOOOOAAAA....",
@@ -461,7 +441,7 @@
               "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=539578&a=0000000001&l=7408&m=the-odyssey&ss=False",
               "areaCode": "0000000001",
               "seats": [
-                "...AAAAAAA?AOOOOOOAAAAAAA....",
+                "...OOOOAAA?AOOOOOOAAAAAAA....",
                 "..AOOOOOOOOOOOOOOOOOOOOOOO...",
                 ".AOOOOOOOOOOOO?OOOOOOOOOOOO..",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -626,7 +606,7 @@
               "areaCode": "0000000001",
               "seats": [
                 "...AAAAAAA?AAAAAAAAAAAAAA....",
-                "..OOAAOOOOOOOOOOOOOOOOOOOA...",
+                "..OOOOOOOOOOOOOOOOOOOOOOOA...",
                 ".OOOOOOOOOOOOO?OOOOOOOOOOOA..",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                 ".AAAAOOOOOOOOOOOOOOOOOAAA....",
@@ -646,7 +626,7 @@
               "areaCode": "0000000001",
               "seats": [
                 "...AAAAAAA?AAAAAAAAAAAAAA....",
-                "..AAAAOOOOOOOOOOOOAAAAAAAA...",
+                "..AAAAOOOOOOOOOOOOOOAAAAAA...",
                 ".OOOOOOOOOOOOO?OOOOOOOOOOOO..",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOAOO.",
                 ".AAAAOOOOOOOOOOOOOOOOOAAO....",
@@ -883,7 +863,7 @@
               "seats": [
                 "...AAAAAAA?AAAAAAAAAAAAAA....",
                 "..AAAAAAAAAAAOOAAAAAAAAAAA...",
-                ".AAOOOOOOOOOOO?OOOOOOOOOOAA..",
+                ".AAOOOAOOOOOOO?OOOOOOOOOOAA..",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                 ".AAAAOOOOOOOOOOOOOOOOAAAA....",
                 ".............................",
@@ -1566,8 +1546,8 @@
               "areaCode": "0000000001",
               "seats": [
                 "...AAAAAAA?AAAAAAAAAAAAAA....",
-                "..OOOAAOOOOOOOOOOOOAOOAAAA...",
-                ".OOOOOOOOOOOOO?OOOOOOOOOOOA..",
+                "..OOOOOOOOOOOOOOOOOOOAAAAA...",
+                ".OOOOOOOOOOOOO?OOOOOOOOOOOO..",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                 ".OOAOOOOOOOOOOOOOOOOOOOOO....",
                 ".............................",
@@ -1614,7 +1594,22 @@
             {
               "time": "18:00",
               "format": "IMAX",
-              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540719&a=0000000001&l=7408&m=dune-part-3&ss=False"
+              "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540719&a=0000000001&l=7408&m=dune-part-3&ss=False",
+              "areaCode": "0000000001",
+              "seats": [
+                "...OOOOOOO?OOOOOOOOOOOOOO....",
+                "..OOOOOOOOOOOOOOOOOOOOOOOO...",
+                ".OOOOOOOOOOOOO?OOOOOOOOOOOO..",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                ".OOAOOOOOOOOOOOOOOOOOOOOO....",
+                ".............................",
+                ".............................",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOO.."
+              ]
             }
           ]
         }
@@ -2056,7 +2051,7 @@
               "seats": [
                 "...AAAAAAA?AAAAAAAAAAAAAA....",
                 "..AAAAAAAAAAAAAAAAAAAAAAAA...",
-                ".AAAAAAAAAOOOO?OOAAAAAAAAAA..",
+                ".AAAAAAAOOOOOO?OOAAAAAAAAAA..",
                 "AAAOOOOOOOOOOOOOOOOOOOOOAAAA.",
                 ".AAAAOOOOOOOOOOOOOOOOAAAA....",
                 ".............................",
@@ -2076,7 +2071,7 @@
               "seats": [
                 "...AAAAAAA?AAAAAAAAAAAAAA....",
                 "..AAAAAAAAAAAAAAAAAAAAAAAA...",
-                ".AAAAAAAAAAAAA?AAAAAAAAAAAA..",
+                ".AAAAAAAAAAAOO?AAAAAAAAAAAA..",
                 "AAAOOOOOOOOOOOOOOOOOOOOOAAOO.",
                 ".AAAAOOOOOOOOOOOOOOOOAAAA....",
                 ".............................",
@@ -2241,7 +2236,7 @@
                 "...AAAAAAA?AAAAAAAAAAAAAA....",
                 "..AAAAAAAAAAAAAAAAAAAAAAAA...",
                 ".AAAAAAAAAAAAA?AAAAAAAAAAAA..",
-                "AAAOOAOOOOOOOOOOOOOAAAAAAAAA.",
+                "AAAAAAOOOOOOOOOOOOOAAAAAAAAA.",
                 ".AAAAOOOOOOOOOOOOOOOAAAAA....",
                 ".............................",
                 ".............................",
@@ -2964,7 +2959,7 @@
                 "AAAOOOOOOOOOOOOOOOOOOOOOOOAA.",
                 "AAAOOOOOOOOOOOOOOOOOOOOAAAAA.",
                 "AOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
-                "OOOOOOOOOOOOOOOOOOOOOOOOOOAA.",
+                "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                 "OOOOOOOOOOOOOOOOOOOOOOOOOOO.."
               ]
             },
