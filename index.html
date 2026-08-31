@@ -3,20 +3,19 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="refresh" content="7; url=https://ariesyous.github.io/cinescan" />
   <title>IMAX at Scotiabank Toronto</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header>
-    <h1 id="theatre-name">IMAX at Scotiabank Theatre Toronto</h1>
-    <nav id="theatre-tabs" class="theatre-tabs"></nav>
-    <p class="refresh-note">Data refreshes once a day, typically in the morning.</p>
-    <p id="updated" class="updated"></p>
+    <h1 id="theatre-name">This project has moved</h1>
+    <p class="refresh-note">
+      IMAX at Scotiabank Toronto has been retired. Head over to
+      <a href="https://ariesyous.github.io/cinescan">Cinescan</a> instead
+      &mdash; you'll be redirected automatically in a few seconds.
+    </p>
   </header>
-
-  <main id="calendar" class="calendar">
-    <p class="loading">Loading showtimes&hellip;</p>
-  </main>
 
   <footer class="site-footer">
     <p>
@@ -27,14 +26,12 @@
         View on GitHub
       </a>
     </p>
-    <img
-      class="visitor-badge"
-      src="https://visitor-badge.laobi.icu/badge?page_id=ariesyous.imaxatscotia"
-      alt="visitor count"
-      loading="lazy"
-    />
   </footer>
 
-  <script src="app.js"></script>
+  <script>
+    setTimeout(function () {
+      window.location.href = "https://ariesyous.github.io/cinescan";
+    }, 7000);
+  </script>
 </body>
 </html>
